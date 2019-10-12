@@ -4,7 +4,7 @@ collection: code
 type: "Research Project"
 permalink: /code/2014-spring-teaching-1
 venue: ""
-date: 
+date: 2014-01-01
 location: ""
 ---
 
