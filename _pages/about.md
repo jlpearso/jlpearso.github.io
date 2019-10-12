@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a postdoctoral researcher at the Princeton Environmental Institute working in Prof. Laure's Resplandy's group to understand oxygen minimum zones in the Indian ocean through oberservations and modelling. 
+#I am currently a postdoctoral researcher at the Princeton Environmental Institute working in Prof. Laure's Resplandy's group #to understand oxygen minimum zones in the Indian ocean through oberservations and modelling. 
 
 I received my PhD the Department of Earth, Environmental and Planetary Sciences at Brown University, where I was a GoMRI scholar funded by the Consortium for Advanced Research on Hydrocarbon Transport in the Environment. My research utilized regional observational platforms to calculate upper ocean statistics to better understand physical impacts on oil distributions in the Gulf of Mexico as well as the transport and dispersion of nutrients, pollution, and oyster parasites in Narragansett Bay. I used structure functions, alongside other statistics, to isolate key scales and processes. 
 
