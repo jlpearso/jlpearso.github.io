@@ -10,11 +10,11 @@ header:
 
 ### In Preparation
 
-- [Blended second and third order structure function laws for passive-reactive tracers in geophysical flows][]  
+- Blended second and third order structure function laws for passive-reactive tracers in geophysical flows 
   **Jenna Pearson**, Baylor Fox-Kemper,Aakash Sane
   *Submitting to Geophysical Research Letters*  
   
-- [Structure Functions in Quasigeostrophic Turbulence][]   
+- Structure Functions in Quasigeostrophic Turbulence  
   Brodie Pearson, **Jenna Pearson**, Baylor Fox-Kemper
   *Submitting to Geophysical Research Letters*    
   
