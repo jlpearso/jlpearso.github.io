@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "CV"
+permalink: /cv/
 header:
-  image: /assets/images/global_temp_stripes.png
-  caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
+  image: /assets/images/2dturb_header.jpg
 ---
 
 ### Submitted
