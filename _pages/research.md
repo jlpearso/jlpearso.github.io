@@ -2,12 +2,12 @@
 title: "Research"
 # layout: collection
 permalink: /research/
+classes: wide
 author_profile: true
 # collection: research
 # entries_layout: grid
 header:
   image: /assets/images/2dturb_header.jpg
-  caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
 ---
 <div id="cvhdr"><img id="img2" src="https://jennalynnpearson.files.wordpress.com/2019/10/me.jpg" width="280" height="280" align="right" />
 <p style="text-align:float left;color:#003366;font-size:20.5px;"><strong>Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.</strong>
