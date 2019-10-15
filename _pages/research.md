@@ -15,19 +15,19 @@ header:
                 <div class="col-lg-12 text-center">
                     <h3 class="section-subheading text-muted">
                         I am a graduate student at <a href="http://brown.edu">Brown University</a>
-                        <a href="https://www.brown.edu/academics/earth-environmental-planetary-sciences/">Department of Earth, Environmental, and Planetary Sciences</a>. These are my current and past research projects..
+                        <a href="https://www.brown.edu/academics/earth-environmental-planetary-sciences/">Department of Earth, Environmental, and Planetary Sciences</a>. These are my current and past research projects.
                     </h3>
                 </div>
             </div>
         </div>
 <div class="container">
-        <div class="row">
+        <div class="row text-center">
             {% for project in site.data.projects %}
                 <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="{{ project.url }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa-hand-pointer-o fa-3x"></i>
+                                <i class="fa-hand-pointer-o" aria-hidden="true"></i>
                             </div>
                         </div>
                         <img src="assests/images/{{ project.pic }}" class="img-responsive" alt="">
