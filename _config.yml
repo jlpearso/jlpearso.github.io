@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : EmptyEggCartons
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -108,20 +108,20 @@ analytics:
 # Site Author
 author:
   name             : "Jenna pearson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use models, observations and theory to understand processes in the upper and coastal ocean, with emphasis on submesoscales.."
-  location         : "Somewhere"
-  email            :
+  location         : "Providence, RI"
+  email            : jennalynnpearson@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://jennalynnpearson.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/EmptyEggCartons"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/EmptyEggCartons"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
