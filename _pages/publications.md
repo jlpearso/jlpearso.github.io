@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 header:
-  image: /assets/images/2Dturb_header.jpg
+  image: /assets/images/2dturb_header.jpg
   caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
 ---
 
