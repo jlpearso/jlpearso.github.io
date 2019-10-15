@@ -267,26 +267,26 @@ header:
          <ul style="list-style-type:none;float:left;text-align:left;">
            <li>The 5th Workshop in Statistical & Mathematical Modeling</li>
            <li> Xia, C., Cochrane, C., DeGuire, J., Fan, G., Holmes, E., McGuirl, M., Murphy, <strong>Palmer, J.</strong>, P., Carter, P., Slivinski, L., & Sandstede, B., </li><li> Microscopic and macroscopic traffic modeling utilizing data assimilation. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/microscopic-and-macroscopic-traffic-modeling-utilizing-data-assimilation-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
-         </ul>
+  </ul>
 
-         <ul style="list-style-type:none;float:right;text-align:right;">
+     <ul style="list-style-type:none;float:right;text-align:right;">
            <li>May 2014</li>
            <li><em>Northeastern Illinois University</em></li>
-         </ul>
+     /ul>
 
-         <br style="clear:both;" />
+     <br style="clear:both;" />
 
-         <ul style="list-style-type:none;float:left;text-align:left;">
+   <ul style="list-style-type:none;float:left;text-align:left;">
            <li>MaPS Scholars Fall Meeting</li>
            <li> <strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A.,
            <li>Consistency across ancestries of genetic associations of type-II diabetes. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/consistency-across-ancestries-of-genetic-associations-of-type-ii-diabetes.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
-         </ul>
+           </ul>
 
-         <ul style="list-style-type:none;float:right;text-align:right;">
-           <li>Nov 2013</li>
-           <li><em>Northeastern Illinois University</em></li>
-         </ul>
-   </ul>
+           <ul style="list-style-type:none;float:right;text-align:right;">
+             <li>Nov 2013</li>
+             <li><em>Northeastern Illinois University</em></li>
+           </ul>
+           </ul>
 
 <br style="clear:both;" />
 <ul style="list-style-type:none;text-align:left;">
