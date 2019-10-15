@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-author_profile: true
+#author_profile: true
 permalink: /cv/
 classes: wide
 header:
@@ -87,7 +87,7 @@ header:
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>American Institute of Biological Sciences & RI NSF EPSCoR/RI C-AIM</strong></li>
-      <li>Enabling Interdisciplinary and Team Science Workshop: A Professional Development Program from AIBS</li>
+      <li>Enabling Interdisciplinary and Team Science Workshop</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Feb 2019</li>
