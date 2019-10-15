@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Jenna Pearson"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Jenna Pearson"
+title_separator          : "|"
+subtitle                 : "turbulence & transport"
 name                     : "Jenna Pearson"
-description              : "Graduate Student at Brown University"
+description              : "tracers, drifters, biophysical interactions."
 url                      : "https://jlpearso.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jlpearso/jlpearso.github.id" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -99,23 +99,23 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : UA-150092364-2
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
   name             : "Jenna pearson"
-  avatar           : "images/profile_pic.jpg"
-  bio              : "Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use models, observations and theory to understand processes in the upper and coastal ocean, with emphasis on submesoscales.."
+  avatar           : "/assets/images/bio-photo_pearson.jpg"
+  bio              : "My interests are at the intersection of physical oceanography and biogeochemistry. I use models, observations and theory to understand processes in the upper and coastal ocean, with emphasis on submesoscales.."
   location         : "Providence, RI"
   email            : jennalynnpearson@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:jennalynnpearson@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jennalynnpearson.com"
@@ -219,10 +219,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
