@@ -21,7 +21,7 @@ header:
                 </div>
             </div>
         </div>
-        <div class="container">
+<div class="container">
         <div class="row">
             {% for project in site.data.projects %}
                 <div class="col-md-4 col-sm-4 portfolio-item">
