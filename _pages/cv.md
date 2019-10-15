@@ -36,8 +36,6 @@ header:
       <li>2008-2014</li>
       <li><em>Northeastern Illinois University</em></li>
    </ul>
-   </div>
-
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/neiulogo.png" alt="neiulogo.png" width="80" height="80" /></li>
