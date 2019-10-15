@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dhruv Balwada"
+title                    : "Jenna Pearson"
 title_separator          : "|"
-subtitle                 : "Stir & Mix" # site tagline that appears below site title in masthead
-name                     : "Dhruv Balwada"
-description              : "Oceanography, turbulence, transport, Lagrangian, tracers."
-url                      : "https://dhruvbalwada.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "turbulence & transport"
+name                     : "Jenna Pearson"
+description              : "tracers, drifters, biophysical interactions."
+url                      : "https://jlpearso.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "dhruvbalwada/dhruvbalwada.github.id"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jlpearso/jlpearso.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/brown_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -65,8 +65,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -101,43 +101,43 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-144181004-1
+    tracking_id          : UA-150092364-2
     anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Dhruv Balwada"
-  avatar           : "/assets/images/bio-photo_balwada.jpg"
-  bio              : "Oceanographer, engineer, & data enthusiast."
-  location         : "New York, NY"
-  email            : "dhruvbalwada@gmail.com"
+  name             : "Jenna pearson"
+  avatar           : "/assets/images/bio-photo_pearson.jpg"
+  bio              : "My interests are at the intersection of physical oceanography and biogeochemistry. I use models, observations and theory to understand processes in the upper and coastal ocean, with emphasis on submesoscales.."
+  location         : "Providence, RI"
+  email            : jennalynnpearson@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: ""
+      url: mailto:jennalynnpearson@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dhruvbalwada.github.io"
+      url: "https://jennalynnpearson.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BalwadaDhruv"
+      url: "https://twitter.com/EmptyEggCartons"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dhruvbalwada"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/pixel1989/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/EmptyEggCartons"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -215,14 +215,14 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 #permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
-#timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -231,7 +231,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -240,7 +239,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 
@@ -252,8 +250,8 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -274,7 +272,7 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
@@ -294,27 +292,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-# _portfolio
-  - scope:
-      path: "_research"
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-
-
-# Add collections (https://mmistakes.github.io/minimal-mistakes/docs/collections/)
-collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
