@@ -13,7 +13,7 @@ header:
 <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Teaching</h2>
+                    <h2 class="section-heading text-muted">
                     <h3 class="section-subheading text-muted">
                         I am a graduate student at <a href="http://brown.edu">Brown University</a>
                         <a href="https://www.brown.edu/academics/earth-environmental-planetary-sciences/">Department of Earth, Environmental, and Planetary Sciences</a>. These are my current and past research projects..
@@ -22,20 +22,20 @@ header:
             </div>
         </div>
         <div class="container">
-            <div class="row">
-            {% for course in site.data.courses %}
+        <div class="row">
+            {% for project in site.data.projects %}
                 <div class="col-md-4 col-sm-4 portfolio-item">
-                    <a href="{{ course.url }}" class="portfolio-link" data-toggle="modal">
+                    <a href="{{ project.url }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/teaching/{{ course.pic }}" class="img-responsive" alt="">
+                        <img src="assests/images/{{ project.pic }}" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>{{ course.title }}</h4>
-                        <p class="text-muted">{{ course.description }}</p>
+                        <h4>{{ project.title }}</h4>
+                        <p class="text-muted">{{ project.description }}</p>
                     </div>
                 </div>
             {% endfor %}
