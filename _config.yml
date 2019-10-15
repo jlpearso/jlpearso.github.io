@@ -82,6 +82,13 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+# site aesthetics
+
+color:
+  primary: 0099FF
+  secondary: 00CCFF
+  secondary-dark: 333
+
 # Social Sharing
 twitter:
   username               : EmptyEggCartons
