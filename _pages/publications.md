@@ -18,11 +18,11 @@ header:
   *Submitting to Geophysical Research Letters*    
   
 ### Submitted
-- [Biases in structure functions from observations of submesoscale flows][]   
+- Biases in structure functions from observations of submesoscale flows 
   **Jenna Pearson**, Baylor Fox-Kemper, Henry Chang, Brian Haus, Jochen Horstmann, Helga S. Huntley, A.D. Kirwan Jr., Andrew Poje
   *Journal of Geophysical Research: Oceans*  
   
-- [Relation between structure functions and cascade rates in anisotropic 2D turbulence][]   
+- Relation between structure functions and cascade rates in anisotropic 2D turbulence
   Brodie Pearson, **Jenna Pearson**, Baylor Fox-Kemper
   *Physical Revew Fluids*  
 
@@ -44,13 +44,11 @@ header:
 {: reversed="reversed"}
 
 
-% ## PhD Thesis  
-%- [Circulation and Stirring by Ocean Turbulence]  
-% **Dhruv Balwada**  
-% *Florida State University (2016)*  
+### PhD Thesis  
+-Structure Functions to Detect Submesoscale Cascades: Biases and Benefits
+**Jenna Pearson**  
+*Brown University (2020)*  
 
-
-#[Circulation and Stirring by Ocean Turbulence]: /assets/documents/balwada_thesis.pdf
 
 
 [1]: /assets/documents/Xiaetal2017.pdf
