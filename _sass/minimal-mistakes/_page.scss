@@ -173,7 +173,7 @@
     }
 
     .page__title {
-      font-size: 40px;
+      font-size: $type-size-2;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
@@ -502,6 +502,12 @@
   .page {
     @include breakpoint($large) {
       padding-right: 0;
+    }
+  .widest {
+   .page {
+    @include breakpoint($large) {
+      padding-right: 0;
+       padding-left: 0;
     }
 
     @include breakpoint($x-large) {
