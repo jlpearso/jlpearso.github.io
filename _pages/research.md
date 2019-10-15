@@ -9,8 +9,7 @@ author_profile: true
 header:
   image: /assets/images/2dturb_header.jpg
 ---
-<br style="clear:both;" />
-<hr style="height:3px;" />
+
 <div id="rsrch">
 <h2 style="text-align:center;font-family:'Nunito Sans';">Biases in Surface Drifter Statistics</h2>
 <hr style="height:3px;" />
