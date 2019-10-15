@@ -9,14 +9,6 @@ author_profile: true
 header:
   image: /assets/images/2dturb_header.jpg
 ---
-<div id="cvhdr"><img id="img2" src="https://jennalynnpearson.files.wordpress.com/2019/10/me.jpg" width="280" height="280" align="right" />
-<p style="text-align:float left;color:#003366;font-size:20.5px;"><strong>Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.</strong>
-<br>
-Connect with me at <strong>jenna_pearson@brown.edu</strong></p>
-
-</div>
-
-
 <br style="clear:both;" />
 <hr style="height:3px;" />
 <div id="rsrch">
