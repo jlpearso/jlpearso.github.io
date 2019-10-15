@@ -15,8 +15,8 @@ header:
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Teaching</h2>
                     <h3 class="section-subheading text-muted">
-                        I am an assistant professor in the <a href="http://columbia.edu">Columbia University</a>
-                        <a href="http://eesc.columbia.edu">Department of Earth and Environmental Sciences</a>. These are the courses I am currently teaching.
+                        I am a graduate student at <a href="http://brown.edu">Brown University</a>
+                        <a href="https://www.brown.edu/academics/earth-environmental-planetary-sciences/">Department of Earth, Environmental, and Planetary Sciences</a>. These are my current and past research projects..
                     </h3>
                 </div>
             </div>
