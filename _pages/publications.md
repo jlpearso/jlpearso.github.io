@@ -3,8 +3,8 @@ layout: single
 title: "Publications"
 permalink: /publications/
 header:
-  image: /assets/images/global_temp_stripes.png
-  caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
+  image: /assets/images/2Dturb_header.jpg
+  caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
 ---
 
 ### In Preparation
