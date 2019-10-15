@@ -28,7 +28,7 @@ header:
                     <a href="{{ project.url }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa-mouse-pointer fa-3x"></i>
+                                <i class="a-hand-pointer-o fa-3x"></i>
                             </div>
                         </div>
                         <img src="assests/images/{{ project.pic }}" class="img-responsive" alt="">
