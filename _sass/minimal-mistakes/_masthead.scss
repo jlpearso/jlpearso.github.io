@@ -85,6 +85,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-weight: bold;
+  font-size: $type-size-5;
 
   &--lg {
     padding-right: 2em;

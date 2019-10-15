@@ -61,10 +61,10 @@ en-AU:
 # Spanish
 # -------
 es: &DEFAULT_ES
-  skip_links                 : "Saltar enlaces"
-  skip_primary_nav           : "Saltar a navegación principal"
-  skip_content               : "Saltar a contenido"
-  skip_footer                : "Saltar a pie"
+  skip_links                 :
+  skip_primary_nav           :
+  skip_content               :
+  skip_footer                :
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Siguiente"
@@ -103,7 +103,7 @@ es: &DEFAULT_ES
   comment_success_msg        : "¡Gracias por tu comentario! Se publicará una vez sea aprobado."
   comment_error_msg          : "Ha ocurrido un error al enviar el comentario. Asegúrate de completar todos los campos obligatorios e inténtalo de nuevo."
   loading_label              : "Cargando..."
-  search_label_text          : "Términos de búsqueda..."
+  search_label_text          :
   search_placeholder_text    : "Términos de búsqueda..."
   results_found              : "resultado(s) encontrado(s)"
   back_to_top                : "Volver arriba"
@@ -714,7 +714,7 @@ lt: &DEFAULT_LT
   email_label                : "El. paštas"
   recent_posts               : "Naujausi įrašai"
   undefined_wpm              : "Nedeklaruotas parametras words_per_minute faile _config.yml"
-  comment_form_info          : "El. pašto adresas nebus viešinamas. Būtini laukai pažymėti"
+  comment_form_info          : "El. pašto adresas nebus viešinamas. Būtini laukai pažymėti."
   comment_form_comment_label : "Komentaras"
   comment_form_md_info       : "Markdown palaikomas."
   comment_form_name_label    : "Vardas"
@@ -814,7 +814,7 @@ sv: &DEFAULT_SV
   email_label                : "E-post"
   recent_posts               : "Senaste inlägg"
   undefined_wpm              : "Odefinerade parametrar words_per_minute i _config.yml"
-  comment_form_info          : "Din e-post adress kommer inte att publiceras. Obligatoriska fält är markerade"
+  comment_form_info          : "Din e-post adress kommer inte att publiceras. Obligatoriska fält är markerade."
   comment_form_comment_label : "Kommentar"
   comment_form_md_info       : "Stöd för Markdown finns."
   comment_form_name_label    : "Namn"
@@ -968,7 +968,7 @@ vi: &DEFAULT_VI
   email_label                : "Email"
   recent_posts               : "Bài viết mới"
   undefined_wpm              : "Chưa định nghĩa thông số words_per_minute tại _config.yml"
-  comment_form_info          : "Email của bạn sẽ được giữ bí mật. Các phần bắt buộc được đánh dấu"
+  comment_form_info          : "Email của bạn sẽ được giữ bí mật. Các phần bắt buộc được đánh dấu."
   comment_form_comment_label : "Bình luận"
   comment_form_md_info       : "Hỗ trợ Markdown."
   comment_form_name_label    : "Tên"
@@ -1072,7 +1072,7 @@ pl: &DEFAULT_PL
   email_label                : "Email"
   recent_posts               : "Najnowsze wpisy"
   undefined_wpm              : "Parametr words_per_minute nie został zdefiniowany w _config.yml."
-  comment_form_info          : "Twój adres email nie będzie udostępiony. Wymagane pola są oznaczone"
+  comment_form_info          : "Twój adres email nie będzie udostępiony. Wymagane pola są oznaczone."
   comment_form_comment_label : "Skomentuj"
   comment_form_md_info       : "Markdown jest wspierany"
   comment_form_name_label    : "Imię"
@@ -1224,7 +1224,7 @@ hu: &DEFAULT_HU
   email_label                : "Email"
   recent_posts               : "Friss cikkek"
   undefined_wpm              : "Ismeretlen paraméter words_per_minute : _config.yml"
-  comment_form_info          : "Az e-mail címed nem lesz publikus. A csillagozott mezők kitöltése kötelező"
+  comment_form_info          : "Az e-mail címed nem lesz publikus. A csillagozott mezők kitöltése kötelező."
   comment_form_comment_label : "Hozzászólás"
   comment_form_md_info       : "Támogatott formázási mód: Markdown"
   comment_form_name_label    : "Név"
@@ -1297,23 +1297,23 @@ ro-RO:
 # Punjabi
 # -----------------
 pa: &DEFAULT_PA
-  skip_links                 : "ਲਿੰਕ ਛੱਡੋ"
-  skip_primary_nav           : "ਮੂਲ ਮਾਰਗ ਛੱਡੋ"
-  skip_content               : "ਸਮੱਗਰੀ ਛੱਡੋ"
-  skip_footer                : "ਅੰਤ ਵਿਚ ਲਿਖਿਆ ਛੱਡੋ"
+  skip_links                 :
+  skip_primary_nav           :
+  skip_content               :
+  skip_footer                :
   page                       : "ਸਫ਼ਾ"
   pagination_previous        : "ਪਿਛਲਾ"
   pagination_next            : "ਅਗਲਾ "
   breadcrumb_home_label      : "ਘਰ"
   breadcrumb_separator       : "/"
   menu_label                 : "ਟੌਗਲ ਮੀਨੂ"
-  search_label               : "ਖੋਜ"
+  search_label               :
   toc_label                  : "ਇਸ ਸਫ਼ੇ 'ਤੇ"
   ext_link_label             : "ਸਿੱਧਾ ਸੰਪਰਕ"
   less_than                  : "ਤੋਂ ਘੱਟ"
   minute_read                : "ਮਿੰਟ ਵਿੱਚ ਪੜਿਆ ਜਾ ਸਕਦਾ ਹੈ"
   share_on_label             : "ਸਾਂਝਾ ਕਰੋ"
-  meta_label                 : "ਸਵੈ-ਸੰਦਰਭ ਜਾਣਕਾਰੀ"
+  meta_label                 :
   tags_label                 : "ਟੈਗ"
   categories_label           : "ਵਰਗ"
   date_label                 : "ਅਪਡੇਟ ਕੀਤਾ:"
@@ -1339,7 +1339,7 @@ pa: &DEFAULT_PA
   comment_success_msg        : "ਤੁਹਾਡੀਆਂ ਟਿੱਪਣੀਆਂ ਲਈ ਧੰਨਵਾਦ! ਇਹ ਮਨਜ਼ੂਰੀ ਮਿਲਣ ਦੇ ਬਾਅਦ ਸਾਈਟ 'ਤੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।"
   comment_error_msg          : "ਮੁਆਫ ਕਰਨਾ, ਤੁਹਾਡੀ ਅਧੀਨਗੀ ਵਿੱਚ ਕੋਈ ਗਲਤੀ ਹੋਈ ਸੀ ਕਿਰਪਾ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਸਾਰੇ ਲੋੜੀਂਦੇ ਖੇਤਰ ਪੂਰੇ ਹੋ ਗਏ ਹਨ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
   loading_label              : "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
-  search_label_text          : "ਖੋਜ"
+  search_label_text          :
   search_placeholder_text    : "ਆਪਣੀ ਖੋਜ ਦੇ ਸ਼ਬਦ ਨੂੰ ਦਰਜ ਕਰੋ..."
   results_found              : "ਨਤੀਜਾ ਮਿਲਿਆ/ਮਿਲੇ"
   back_to_top                : "ਵਾਪਸ ਚੋਟੀ 'ਤੇ ਜਾਓ"
@@ -1505,10 +1505,10 @@ th-TH:
 # Hindi
 # -----------------
 hi: &DEFAULT_HI
-  skip_links                 : "लिंक छोड़ें"
-  skip_primary_nav           : "प्राथमिक पथ-प्रदर्शन छोड़ें"
-  skip_content               : "सामग्री छोड़ें"
-  skip_footer                : "अंत-में लिखा छोड़ें"
+  skip_links                 :
+  skip_primary_nav           :
+  skip_content               :
+  skip_footer                :
   page                       : "पृष्ठ"
   pagination_previous        : "पिछला"
   pagination_next            : "अगला"
@@ -1520,7 +1520,7 @@ hi: &DEFAULT_HI
   less_than                  : "से कम"
   minute_read                : "मिनट में पढ़ सकते हैं"
   share_on_label             : "साझा करें"
-  meta_label                 : "स्व-संदर्भात्मक जानकारी"
+  meta_label                 :
   tags_label                 : "अंकितक:"
   categories_label           : "श्रेणियाँ:"
   date_label                 : "अपडेट किया गया:"
@@ -1546,65 +1546,13 @@ hi: &DEFAULT_HI
   comment_success_msg        : "आपके कमेंट के लिए धन्यवाद! इसे स्वीकृति मिलने के बाद साइट पर दिखाया जाएगा।"
   comment_error_msg          : "क्षमा करें, आपके सबमिशन के साथ एक त्रुटि हुई थी। कृपया सुनिश्चित करें कि सभी आवश्यक फ़ील्ड पूरा हो गए हैं और पुनः प्रयास करें।"
   loading_label              : "लोड हो रहा है..."
-  search_label_text          : "खोज"
+  search_label_text          :
   search_placeholder_text    : "अपना खोज शब्द दर्ज करें..."
   results_found              : "परिणाम मिला/मिले"
   back_to_top                : "शीर्ष पर वापस"
 hi-IN:
   <<: *DEFAULT_HI
-  
-# Catalan
-# --------------
-ca: &DEFAULT_CA
-  skip_links                 : "Salta els enllaços"
-  skip_primary_nav           : "Salta a la navegació primària"
-  skip_content               : "Salta al contingut"
-  skip_footer                : "Salta al peu"
-  page                       : "Pàgina"
-  pagination_previous        : "Anterior"
-  pagination_next            : "Següent"
-  breadcrumb_home_label      : "Inici"
-  breadcrumb_separator       : "/"
-  menu_label                 : "Mostra/amaga el menú"
-  search_label               : "Mostra/amaga la cerca"
-  toc_label                  : "En aquesta pàgina"
-  ext_link_label             : "Enllaç directe"
-  less_than                  : "es llegeix en menys de"
-  minute_read                : "minut(s)"
-  share_on_label             : "Comparteix a"
-  meta_label                 :
-  tags_label                 : "Etiquetes:"
-  categories_label           : "Categories:"
-  date_label                 : "Actualitzat:"
-  comments_label             : "Deixa un comentari"
-  comments_title             : "Comentaris"
-  more_label                 : "Llegeix més"
-  related_label              : "També et pot agradar"
-  follow_label               : "Segueix-me:"
-  feed_label                 : "Feed"
-  powered_by                 : "Funciona amb"
-  website_label              : "Pàgina web"
-  email_label                : "Correu electrònic"
-  recent_posts               : "Entrades recents"
-  undefined_wpm              : "El paràmetre words_per_minute no està definit a _config.yml"
-  comment_form_info          : "No es mostrarà el teu correu electrònic. Els camps obligatoris estan marcats"
-  comment_form_comment_label : "Comentari"
-  comment_form_md_info       : "Admet Markdown."
-  comment_form_name_label    : "Nom"
-  comment_form_email_label   : "Correu electrònic"
-  comment_form_website_label : "Pàgina web (opcional)"
-  comment_btn_submit         : "Envia"
-  comment_btn_submitted      : "Enviat"
-  comment_success_msg        : "Gràcies pel teu comentari! Apareixerà un cop sigui aprovat."
-  comment_error_msg          : "Hi ha hagut un error enviat el comentari. Comprova que els camps obligatirs estiguin omplerts i torna-ho a provar."
-  loading_label              : "Carregant..."
-  search_label_text          : "Introdueix termes per cercar..."
-  search_placeholder_text    : "Introdueix termes per cercar..."
-  results_found              : "resultat(s)"
-  back_to_top                : "Torna a dalt"
-ca-ES:
-  <<: *DEFAULT_CA
-  
+
 # Another locale
 # --------------
 #
