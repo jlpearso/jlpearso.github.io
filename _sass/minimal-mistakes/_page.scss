@@ -55,7 +55,6 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-  font-size: 40px;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -77,7 +76,7 @@
   li,
   dl,
   ul {
-    font-size: 0.9em;
+    font-size: 1em;
   }
 
   /* paragraph indents */
@@ -174,7 +173,7 @@
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-size: 40px;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
