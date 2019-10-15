@@ -13,7 +13,6 @@ header:
 <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading text-muted">
                     <h3 class="section-subheading text-muted">
                         I am a graduate student at <a href="http://brown.edu">Brown University</a>
                         <a href="https://www.brown.edu/academics/earth-environmental-planetary-sciences/">Department of Earth, Environmental, and Planetary Sciences</a>. These are my current and past research projects..
