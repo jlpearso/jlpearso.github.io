@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jenna Pearson"
 description              : "Graduate Student at Brown University"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jlpearso.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jenna pearson"
-  avatar           : #"/assets/images/bio-photo.jpg"
+  avatar           : "images/profile_pic.jpg"
   bio              : "Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use models, observations and theory to understand processes in the upper and coastal ocean, with emphasis on submesoscales.."
   location         : "Providence, RI"
   email            : jennalynnpearson@gmail.com
