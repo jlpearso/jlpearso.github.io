@@ -3,6 +3,7 @@ layout: single
 title: ""
 #author_profile: true
 permalink: /cv/
+classes: wide
 header:
   image: /assets/images/2dturb_header.jpg
 ---
