@@ -32,11 +32,11 @@ header:
 
 0.  [Small-scale dispersion observations in the presence of Langmuir circulation.][3]  
     Chang, H., Huntley, H., Kirwan, D., Jr., Carlson, D., Mensa, J., Mehta, S., Novelli, G., Ozgokomen, T., Fox-Kemper,B.,    Pearson, B., **Pearson, J.**, Harcourt, R.  
-    *Journal of Geophysical Research: Oceans (2019)*  
+    *Journal of Physical Oceanography (2019)*  
 
 0.  [Impacts of convergence on structure functions from surface drifters in the Gulf of Mexico.][2]  
     **Pearson, J.**, Fox-Kemper, B., Barkan, R., Choi, J., Bracco, A., & McWilliams, J.
-    *Journal of Advances in Modeling Earth Systems (2019)*  
+    *Journal of Physical Oceanography (2019)*
 
 0.  [Assimilating Eulerian and Lagrangian data in traffic-flow models.][1]  
     Xia, C., Cochrane, C., DeGuire, J., Fan, G., Holmes, E., McGuirl, M., Murphy, **P., Palmer, J.**, Carter, P., Slivinski, L., & Sandstede, B.,
