@@ -8,7 +8,7 @@ header:
 ---
 
 ### Education
-<img style="float: right;" src="/assets/images/brown_logo.jpg">
+<img style="float: right;" src="/assets/images/brown_logo.png">
 
 Continue markdown text...
 
