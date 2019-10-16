@@ -133,8 +133,9 @@ header:
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Research Assistant</strong></li>
       <li>Advisor:  Prof.  Baylor Fox-Kemper</li>
-      <li>Statistical methods paired with models, observations, and theory to isolate biases in Lagrangian</li>
-<li>observation platforms as well as characterize reactive-tracer fields in the presence of turbulence</li>
+      <li>Statistical methods paired with models, observations, and theory</li>
+      <li>to isolate biases in quasi-Lagrangian observation platforms and</li>
+      <li>reactive-tracer fields in the presence of turbulence</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Fall 2015-Present</li>
@@ -191,7 +192,8 @@ header:
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
       <li>Advisor:  Prof.  Björn Sandstede, Division of Applied Mathematics</li>
-      <li>Analysis of data assimilation and parameter estimation schemes applied to traffic models</li>
+      <li>Analysis of data assimilation and parameter estimation schemes</li>
+      <li>applied to traffic models</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Summer 2014</li>
@@ -229,7 +231,7 @@ header:
            <li>First Sergeant Council Scholarship, ILARNG</li>
          </ul>
 
-         <ul style="list-style-type:none;float:right;text-align:right;">
+   <ul style="list-style-type:none;float:right;text-align:right;">
            <li>2015-2016</li>
            <li>2012-2014</li>
            <li>2011</li>
@@ -238,18 +240,18 @@ header:
    </ul>
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Honors</strong></li>
-         <ul style="list-style-type:none;float:left;text-align:left;">
-<li>Tse Cheuk Ng Tai Innovations in Fluids and Health 2019 Award, <a href="https://fluids-health.mit.edu/news/tse-cheuk-ng-tai-innovations-fluids-and-health-2019-awards-ceremony" target="_blank" rel="noopener noreferrer">Tse Cheuk Ng Tai Innovation Fund</a></li>
-           <li>GoMRI Scholar, Gulf of Mexico Research Initiative [<a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">Article</a>]</li>
-           <li>Deans List, Northeastern Illinois University</li>
-           <li>Women in Mathematics, Northeastern Illinois University</li>
-           <li>Army Commendation Medal, ILARNG</li>
-           <li>Command Sergeant Major's Award, ILARNG</li>
-           <li>Army Achievement Medal, ILARNG</li>
-           <li>National Service Award, ILARNG</li>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+             <li>Tse Cheuk Ng Tai Innovations in Fluids and Health 2019 Award, <a href="https://fluids-health.mit.edu/news/tse-cheuk-ng-tai-innovations-fluids-and-health-2019-awards-ceremony" target="_blank" rel="noopener noreferrer">Tse Cheuk Ng Tai Innovation Fund</a></li>
+              <li>GoMRI Scholar, Gulf of Mexico Research Initiative [<a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">Article</a>]</li>
+               <li>Deans List, Northeastern Illinois University</li>
+               <li>Women in Mathematics, Northeastern Illinois University</li>
+               <li>Army Commendation Medal, ILARNG</li>
+               <li>Command Sergeant Major's Award, ILARNG</li>
+               <li>Army Achievement Medal, ILARNG</li>
+               <li>National Service Award, ILARNG</li>
          </ul>
 
-         <ul style="list-style-type:none;float:right;text-align:right;">
+   <ul style="list-style-type:none;float:right;text-align:right;">
            <li>07/26/2019</li>
            <li>2018</li>
            <li>2008-2014</li>
@@ -266,7 +268,10 @@ header:
       <li><strong>Invited Talks</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
            <li>The 5th Workshop in Statistical & Mathematical Modeling</li>
-           <li> Xia, C., Cochrane, C., DeGuire, J., Fan, G., Holmes, E., McGuirl, M., Murphy, <strong>Palmer, J.</strong>, P., Carter, P., Slivinski, L., & Sandstede, B., </li><li> Microscopic and macroscopic traffic modeling utilizing data assimilation. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/microscopic-and-macroscopic-traffic-modeling-utilizing-data-assimilation-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
+           <li> Xia, C., Cochrane, C., DeGuire, J., Fan, G., Holmes, E., McGuirl, M., </li>
+           <li> Murphy, <strong>Palmer, J.</strong>, P., Carter, P., Slivinski, L., & Sandstede, B.,</li>
+           <li> Microscopic and macroscopic traffic modeling utilizing data assimilation. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/microscopic-and-macroscopic-traffic-modeling-utilizing-data-assimilation-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
+           
   </ul>
 
      <ul style="list-style-type:none;float:right;text-align:right;">
