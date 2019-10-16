@@ -12,7 +12,10 @@ main:
 findme:
   - title: "Find Me"
     children:
-      - title: "Ocean Sciences 2020, San Diego, CA: 02/16-02/21 2019"
+      - title: "Ocean Sciences 2020,
+      San Diego, CA: 
+      02/16-02/21 2019
+      _________________________"
         url: https://www.agu.org/ocean-sciences-meeting
 
       - title: "1st Conference on Fluids and Health, Corsica, France: 07/23-08/02 2019"
