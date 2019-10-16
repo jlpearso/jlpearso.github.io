@@ -14,16 +14,16 @@ Connect with me at <strong>jenna_pearson@brown.edu</strong>
 
 I also love traveling, music, singing, playing guitar, coffee, cats, cooking, escape rooms, and making science themed cakes.
 
-<ul style="list-style-type:none;float:center;text-align:left;">
+<ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/sd-e1550443067860.jpg" alt="sd-e1550443067860.jpg" width="134" height="70" /></li>
    </ul>
-   <ul style="list-style-type:none;float:center;text-align:left;">
+   <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/gomcake-e1550443090157.jpg" alt="gomcake-e1550443090157.jpg" width="136" height="70" /></li>
    </ul>
-   <ul style="list-style-type:none;float:center;text-align:left;">
+   <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/ccm-1-e1550444126265.jpg" alt="ccm-1-e1550444126265.jpg" width="130" height="70" /></li>
    </ul>
-   <ul style="list-style-type:none;float:center;text-align:left;">
+   <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/cakesa-e1550443056721.jpg" alt="cakesa-e1550443056721.jpg" width="138" height="70" /></li>
    </ul>
 
