@@ -6,6 +6,19 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
+    
+sb:
+  - title: "Link 1 Title"
+    url: /link-1-page-url/
+
+  - title: "Link 2 Title"
+    url: http://external-link.com
+
+  - title: "Link 3 Title"
+    url: /link-3-page-url/
+
+  - title: "Link 4 Title"
+    url: /link-4-page-url/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
