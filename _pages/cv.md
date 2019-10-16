@@ -8,7 +8,7 @@ header:
   image: /assets/images/2dturb_header.jpg
 ---
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Education</strong></p>
