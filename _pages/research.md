@@ -19,8 +19,12 @@ feature_row1:
     
     
     To the right is a video of a passive tracer advected and diffused by the Regional Ocean Modeling System. The tracer was released at two known source sites for Perkinsus Marinus , an oyster parasite detrimental to both wild and farmed oyster populations in the Bay.'
-    url: "https://github.com/jlpearso"
-    btn_label: "Repository"
+    url: "https://github.com/jlpearso/ttd_ROMS"
+    btn_label: "Repository for TTD"
+    btn_class: "btn--primary"
+    
+    url: "https://github.com/jlpearso/reactive_tracer_sf_theory_ROMS"
+    btn_label: "Repository for SF Theory"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: "https://jennalynnpearson.files.wordpress.com/2019/10/front-6.gif" 
