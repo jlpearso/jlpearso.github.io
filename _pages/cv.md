@@ -271,13 +271,13 @@ header:
            <li> Xia, C., Cochrane, C., DeGuire, J., Fan, G., Holmes, E., McGuirl, M., </li>
            <li> Murphy, <strong>Palmer, J.</strong>, P., Carter, P., Slivinski, L., & Sandstede, B.,</li>
            <li> Microscopic and macroscopic traffic modeling utilizing data assimilation. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/microscopic-and-macroscopic-traffic-modeling-utilizing-data-assimilation-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
-           
+         </ul>
   </ul>
 
-     <ul style="list-style-type:none;float:right;text-align:right;">
+  <ul style="list-style-type:none;float:right;text-align:right;">
            <li>May 2014</li>
            <li><em>Northeastern Illinois University</em></li>
-     /ul>
+     </ul>
 
      <br style="clear:both;" />
 
