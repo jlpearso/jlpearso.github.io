@@ -50,7 +50,7 @@ header:
    </ul>
 </div>
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Training</strong></p>
@@ -123,7 +123,7 @@ header:
 </div>
 
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Professional & Teaching Experience</strong></p>
@@ -218,7 +218,7 @@ header:
 </div>
 
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Awards & Honors</strong></p>
@@ -316,7 +316,7 @@ header:
 </div>
 
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Skills and Field Experience</strong></p>
@@ -338,7 +338,7 @@ header:
    </ul>
 
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 </div>
 
@@ -359,7 +359,7 @@ header:
           <li>CLS Coordinator and Instructor, ILARNG</li>
          </ul>
 
-         <ul style="list-style-type:none;float:right;text-align:right;">
+   <ul style="list-style-type:none;float:right;text-align:right;">
            <li>Sept 2019</li>
            <li>Apr 2019</li>
            <li>Spring 2019</li>
@@ -408,7 +408,7 @@ header:
 </div>
 
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Professional Memberships</strong></p>
@@ -432,4 +432,4 @@ header:
 
 
 <br style="clear:both;" />
-<hr style="height:3px;" />
+<hr style="height:6px;" />
