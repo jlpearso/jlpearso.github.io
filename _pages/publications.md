@@ -21,7 +21,7 @@ header:
       <br>
       <li>Pearson, B., <strong>Pearson, J.</strong>,Fox-Kemper, B., In Revision in PRF: Relation between structure functions and cascade rates in anisotropic 2D turbulence</li>
       <br>
-      <li>Chang,  H.,  Huntley,  H.,  Kirwan,  D.,  Jr.,  Carlson,  D.,  Mensa,  J.,  Mehta,  S.,  Novelli,  G.,  Ozgokomen,  T.,  Fox-Kemper,B.,  Pearson,  B., <strong>Pearson, J.</strong>,  Harcourt,  R.  Accepted in JPO:  Small-scale  dispersion  observations  in  the  presence  of  Langmuir circulation. J. Phys. Oceanogr.[[PDF][/assets/documents/Changetal2019.pdf], <a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0107.1" target="_blank">DOI</a>] </li>
+      <li>Chang,  H.,  Huntley,  H.,  Kirwan,  D.,  Jr.,  Carlson,  D.,  Mensa,  J.,  Mehta,  S.,  Novelli,  G.,  Ozgokomen,  T.,  Fox-Kemper,B.,  Pearson,  B., <strong>Pearson, J.</strong>,  Harcourt,  R.  Accepted in JPO:  Small-scale  dispersion  observations  in  the  presence  of  Langmuir circulation. J. Phys. Oceanogr.[<a src="/assets/documents/Changetal2019.pdf" target="_blank">PDF</a>, <a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0107.1" target="_blank">DOI</a>] </li>
 <br>
       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2019:  Impacts  of  convergence  on structure functions from surface drifters in the Gulf of Mexico. J. Phys. Oceanogr., 49, 675–690, [PDF, <a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-18-0029.1">DOI</a>]</li>
 <br>
