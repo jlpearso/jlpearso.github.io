@@ -25,7 +25,7 @@ header:
 <br>
       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2019:  Impacts  of  convergence  on structure functions from surface drifters in the Gulf of Mexico. J. Phys. Oceanogr., 49, 675–690, [<a href="/assets/documents/Pearsonetal2019.pdf" target="_blank">PDF</a>, <a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-18-0029.1">DOI</a>]</li>
 <br>
-     <li>Xia,  C.,  Cochrane,  C.,  DeGuire,  J.,  Fan,  G.,  Holmes,  E.,  McGuirl,  M.,  Murphy,  P., <strong>Palmer, J.</strong>,  Carter,  P.,  Slivinski, L.,  &  Sandstede,  B.,  2017:  Assimilating  Eulerian  and  Lagrangian  data  in  traffic-flow  models. Physica  D:  Nonlinear Phenomena,346, 59-72 [<a href="/assets/documents/Xiaetal2019.pdf" target="_blank">PDF</a>, <a href="https://doi.org/10.1016/j.physd.2017.02.004">DOI</a>]</li>
+     <li>Xia,  C.,  Cochrane,  C.,  DeGuire,  J.,  Fan,  G.,  Holmes,  E.,  McGuirl,  M.,  Murphy,  P., <strong>Palmer, J.</strong>,  Carter,  P.,  Slivinski, L.,  &  Sandstede,  B.,  2017:  Assimilating  Eulerian  and  Lagrangian  data  in  traffic-flow  models. Physica  D:  Nonlinear Phenomena,346, 59-72 [<a href="/assets/documents/Xiaetal2017.pdf" target="_blank">PDF</a>, <a href="https://doi.org/10.1016/j.physd.2017.02.004">DOI</a>]</li>
 </ol>
  </div>
 
