@@ -26,12 +26,4 @@ I also love traveling, music, singing, playing guitar, coffee, cats, cooking, es
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/cakesa-e1550443056721.jpg" alt="cakesa-e1550443056721.jpg" width="138" height="70" /></li>
    </ul>
-<ul style="list-style-type:none;float:left;text-align:left;">
-      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/guitar.jpg" alt="guitar.jpg" width="130" height="70" ></li>
-</ul>
-<ul style="list-style-type:none;float:left;text-align:left;">
-      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/nbcake-e1550444079966.jpg" alt="nbcake-e1550444079966.jpg" width="140" height="70" /></li>
-</ul>
-<ul style="list-style-type:none;float:left;text-align:left;">
-      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/ccm-e1550443899848.jpg" alt="ccm-e1550443899848.jpg" width="139" height="70" /></li>
-</ul>
+
