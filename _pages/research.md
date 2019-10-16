@@ -15,7 +15,14 @@ feature_row1:
   - image_path: "https://jennalynnpearson.files.wordpress.com/2019/10/front-6.gif" 
     alt: "ROMS simulation of passive tracers from two known sources."
     title: "Transport and Dispersion in Narragansett Bay"
-    excerpt: 'Structure functions are tools to estimate difficult biogeochemical parameters, and transit-time distributions give information about the transport and fate of pollutants, pathogens, and other tracers. I bridge physical and biogeochemical fields by developing structure function theories for reactive tracers in anisotropic turbulence and analyzing transit-time distributions to understand how river influxes of nutrients as well as oyster parasites propagate and spread in Narragansett Bay.  To the right is a video of a passive tracer advected and diffused by the Regional Ocean Modeling System. The tracer was released at two known source sites for Perkinsus Marinus , an oyster parasite detrimental to both wild and farmed oyster populations in the Bay.'
+    excerpt: 'Structure functions are tools to estimate difficult biogeochemical parameters, and transit-time distributions give information about the transport and fate of pollutants, pathogens, and other tracers. I bridge physical and biogeochemical fields by developing structure function theories for reactive tracers in anisotropic turbulence and analyzing transit-time distributions to understand how river influxes of nutrients as well as oyster parasites propagate and spread in Narragansett Bay.  To the right is a video of a passive tracer advected and diffused by the Regional Ocean Modeling System. The tracer was released at two known source sites for Perkinsus Marinus , an oyster parasite detrimental to both wild and farmed oyster populations in the Bay.
+    
+    <br />
+<strong>Publications: </strong>
+<p style="font-size:14px;"><strong>Pearson, J</strong>., Fox-Kemper, B., Barkan, R., Choi, J., Bracco, A., & McWilliams, J. (2019). Impacts of convergence on structure functions from surface drifters in the Gulf of Mexico. <em>Journal of Physical Oceanography, 49, 675-690 </em>[<a><a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-18-0029.1" target="_blank" rel="noopener noreferrer">DOI</a></a>]</p>
+<p style="font-size:14px;"><strong>Pearson, J</strong>., Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, Huntley, H., J., Kirwan, D. A., Jr., Poje, A., (Submitted to JGR). Biases in structure functions from observations of submesoscale flows.</p>
+<p style="font-size:14px;">Chang, H., Huntley, H., Kirwan, D., Jr., Carlson, D., Mensa, J., Mehta, S., Novelli, G., Ozgokomen, T., Fox-Kemper,B., Pearson, B.,<strong>Pearson, J.,</strong> Harcourt, R.(In Press). Small-scale dispersion observations in the presence of Langmuir circulation. <em>Journal of Physical Oceanography </em>[<a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0107.1" target="_blank">DOI</a>]
+</p>'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
