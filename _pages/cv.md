@@ -279,7 +279,7 @@ header:
      </ul>
      
      
-
+   <br style="clear:both;" />
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
