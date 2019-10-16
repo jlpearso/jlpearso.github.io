@@ -12,7 +12,7 @@ excerpt: "Broadly, my interests are at the intersection of physical oceanography
 intro: 
   - excerpt: ''
 feature_row1:
-  - image_path: assets/images/brown_logo.png
+  - image_path: "https://jennalynnpearson.files.wordpress.com/2019/10/front-6.gif" 
     alt: "ROMS simulation of passive tracers from two known sources."
     title: "Transport and Dispersion in Narragansett Bay"
     excerpt: 'Structure functions are tools to estimate difficult biogeochemical parameters, and transit-time distributions give information about the transport and fate of pollutants, pathogens, and other tracers. I bridge physical and biogeochemical fields by developing structure function theories for reactive tracers in anisotropic turbulence and analyzing transit-time distributions to understand how river influxes of nutrients as well as oyster parasites propagate and spread in Narragansett Bay.  To the right is a video of a passive tracer advected and diffused by the Regional Ocean Modeling System. The tracer was released at two known source sites for Perkinsus Marinus , an oyster parasite detrimental to both wild and farmed oyster populations in the Bay.'
