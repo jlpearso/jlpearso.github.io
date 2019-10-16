@@ -1,12 +1,12 @@
 ---
 layout: single
 title: "Publications"
-#author_profile: true
+author_profile: true
 classes: wide
 permalink: /publications/
 header:
   image: /assets/images/2dturb_header.jpg
-  caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
+  #caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
 ---
 
 ### In Preparation
