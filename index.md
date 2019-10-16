@@ -20,7 +20,6 @@ I also love traveling, music, singing, playing guitar, coffee, cats, cooking, es
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/gomcake-e1550443090157.jpg" alt="gomcake-e1550443090157.jpg" width="136" height="70" /></li>
    </ul>
-   </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/ccm-1-e1550444126265.jpg" alt="ccm-1-e1550444126265.jpg" width="130" height="70" /></li>
    </ul>
@@ -28,7 +27,7 @@ I also love traveling, music, singing, playing guitar, coffee, cats, cooking, es
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/cakesa-e1550443056721.jpg" alt="cakesa-e1550443056721.jpg" width="138" height="70" /></li>
    </ul>
 <ul style="list-style-type:none;float:left;text-align:left;">
-      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/guitar.jpg" alt="guitar.jpg" width="130" height="70" /></li>
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/guitar.jpg" alt="guitar.jpg" width="130" height="70" ></li>
 </ul>
 <ul style="list-style-type:none;float:left;text-align:left;">
       <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/nbcake-e1550444079966.jpg" alt="nbcake-e1550444079966.jpg" width="140" height="70" /></li>
