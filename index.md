@@ -4,9 +4,37 @@ author_profile: true
 header:
   image: /assets/images/2dturb_header.jpg
 ---
+[caption id="attachment_268" align="alignright" width="204"]<img id="img1" src="https://jennalynnpearson.files.wordpress.com/2018/08/12243287_10156137667045315_8422605571439695580_n-e1534338922557.jpg" alt="12243287_10156137667045315_8422605571439695580_n.jpg" width="204" height="350" /> Mt. Monadnock, 2015[/caption]
 
-I am a PhD Candidate in the Department of Earth, Environmental and Planetary Sciences at Brown University, where I am a GoMRI scholar funded by the Consortium for Advanced Research on Hydrocarbon Transport in the Environment. My interests are at the intersection of physical oceanography and biogeochemistry. I use models, observations and theory to understand processes in the upper and coastal ocean, with emphasis on submesoscales.
+I am a PhD Candidate in the Department of Earth, Environmental and Planetary Sciences at Brown University, where I am a <a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">GoMRI scholar</a> funded by the<a href="http://carthe.org/" target="_blank" rel="noopener noreferrer"> Consortium for Advanced Research on Hydrocarbon Transport in the Environment</a>. My research utilizes regional observational platforms to calculate upper ocean statistics to better understand physical impacts on oil distributions in the Gulf of Mexico as well as the transport and dispersion of nutrients, pollution, and oyster parasites in Narragansett Bay. I use structure functions, alongside other statistics, to isolate key scales and processes. Additionally I am interested in the utility of structure functions in a biogeochemical context. I am developing theory and validating it with a realistic regional ocean model to see what structure functions can tell us about reactive tracers in a turbulent fluid.
 
-My research utilizes regional observational platforms to calculate upper ocean statistics to better understand physical impacts on oil distributions in the Gulf of Mexico as well as the transport and dispersion of nutrients, pollution, and oyster parasites in Narragansett Bay. I use structure functions, alongside other statistics, to isolate key scales and processes. Additionally I am interested in the utility of structure functions in a biogeochemical context. I am developing theory and validating it with a realistic regional ocean model to see what structure functions can tell us about reactive tracers in a turbulent fluid.
+I have a B.A. in Applied Mathematics and also in Earth Science from Northeastern Illinois University where I was a MaPs Scholar.  I am passionate about teaching and outreach, and have worked as a <a href="http://homepages.neiu.edu/~mewp/index.php?action=home">MEWP</a> peer leader, as well as an <a href="http://homepages.neiu.edu/~emerge/index.php">EMERGE</a> peer leader throughout my undergraduate career. More recently, I have worked with Vartan Gregorian Elementary School in Providence, RI teaching 2nd and 3rd graders various science concepts, and have twice co-taught an introductory oceanography course through <a href="https://precollege.brown.edu/summeratbrown/" target="_blank" rel="noopener noreferrer">Summer@Brown</a> to high school students intending to apply to colleges in the near future.<!-- end Publons.com widget -->
 
-I have a B.A. in Applied Mathematics and also in Earth Science from Northeastern Illinois University where I was a MaPs Scholar.  I am passionate about teaching and outreach, and have worked as a MEWP peer leader, as well as an EMERGE peer leader throughout my undergraduate career. More recently, I have worked with Vartan Gregorian Elementary School in Providence, RI teaching 2nd and 3rd graders various science concepts, and have twice co-taught an introductory oceanography course through Summer@Brown to high school students intending to apply to colleges in the near future.
+Connect with me at <strong>jenna_pearson@brown.edu</strong>
+<br style="clear:both;" />
+<hr style="height:3px;" />
+
+I also love traveling, music, singing, playing guitar, coffee, cats, cooking, escape rooms, and making science themed cakes.
+
+<ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/sd-e1550443067860.jpg" alt="sd-e1550443067860.jpg" width="134" height="70" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/gomcake-e1550443090157.jpg" alt="gomcake-e1550443090157.jpg" width="136" height="70" /></li>
+   </ul>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/ccm-1-e1550444126265.jpg" alt="ccm-1-e1550444126265.jpg" width="130" height="70" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/cakesa-e1550443056721.jpg" alt="cakesa-e1550443056721.jpg" width="138" height="70" /></li>
+   </ul>
+<ul style="list-style-type:none;float:left;text-align:left;">
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/guitar.jpg" alt="guitar.jpg" width="130" height="70" /></li>
+</ul>
+<ul style="list-style-type:none;float:left;text-align:left;">
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/nbcake-e1550444079966.jpg" alt="nbcake-e1550444079966.jpg" width="140" height="70" /></li>
+</ul>
+<ul style="list-style-type:none;float:left;text-align:left;">
+      <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/ccm-e1550443899848.jpg" alt="ccm-e1550443899848.jpg" width="139" height="70" /></li>
+</ul>
