@@ -12,17 +12,13 @@ main:
 findme:
   - title: "Find Me"
     children:
-      - title: "Ocean Sciences 2020
-      San Diego, CA
-      _________________________________"
+      - title: "Ocean Sciences 2020"
         url: https://www.agu.org/ocean-sciences-meeting
 
-      - title: "1st Conference on Fluids and Health 2019
-                                         "
+      - title: "1st Conference on Fluids and Health 2019"
         url: https://fluids-health.mit.edu/
 
-      - title: "CESM Tutorial 2019
-      _________________________"
+      - title: "CESM Tutorial 2019"
         url: http://www.cesm.ucar.edu/events/tutorials/2019/
 
       - title: "Lagrangian Analysis and Prediction of Coastal Ocean Dynamics 2019"
