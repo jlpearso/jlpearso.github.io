@@ -11,7 +11,7 @@ header:
 excerpt: "Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales."
 intro: 
   - excerpt: ''
-feature_row:
+feature_row1:
   - image_path: assets/images/brown_logo.png
     alt: "ROMS simulation of passive tracers from two known sources."
     title: "Transport and Dispersion in Narragansett Bay"
@@ -54,6 +54,8 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
