@@ -280,11 +280,11 @@ header:
      
      
 
-     <br style="clear:both;" />
+   <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
            <li>MaPS Scholars Fall Meeting</li>
-           <li> <strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A.,
+           <li> <strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A.,</li>
            <li>Consistency across ancestries of genetic associations of type-II diabetes. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/consistency-across-ancestries-of-genetic-associations-of-type-ii-diabetes.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
            </ul>
 
