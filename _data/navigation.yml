@@ -10,17 +10,19 @@ main:
     url: /news/
     
 findme:
-  - title: "Ocean Sciences 2020, San Diego, CA: 02/16-02/21 2019 "
-    url: https://www.agu.org/ocean-sciences-meeting
+  - title: "Find Me"
+  children:
+    - title: "Ocean Sciences 2020, San Diego, CA: 02/16-02/21 2019 "
+      url: https://www.agu.org/ocean-sciences-meeting
 
-  - title: "Link 2 Title"
-    url: http://external-link.com
+    - title: "Link 2 Title"
+      url: http://external-link.com
 
-  - title: "Link 3 Title"
-    url: /link-3-page-url/
+    - title: "Link 3 Title"
+      url: /link-3-page-url/
 
-  - title: "Link 4 Title"
-    url: /link-4-page-url/
+    - title: "Link 4 Title"
+      url: /link-4-page-url/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
