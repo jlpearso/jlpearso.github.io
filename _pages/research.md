@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#009999"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bio-photo_pearson.jpg
+  overlay_image: /assets/images/ocean_eddies.jpg
   caption: ""
 excerpt: "Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales."
 intro: 
