@@ -30,17 +30,11 @@ feature_row2:
     
 
 Plotted are LASER drifters (purple arrows), and the scaled divergence field (blue to red) from ship-borne X-band radar measurements taken in the Gulf of Mexico in the winter of 2016. Fronts are known to be energetic, and associated with large amounts of turbulence, convergence, and dissipation. Note that the drifters tend to follow the front (dark blue line), and this is one class of bias, called an accumulation bias, that we find strongly affects drifters ability to sample representatively enough to estimate statistics of the entire velocity field.'
-    url: "https://github.com/jlpearso"
-    btn_label: "Repository"
-    btn_class: "btn--primary"
 feature_row3:
   - image_path: "https://jennalynnpearson.files.wordpress.com/2019/02/oceancolor.jpg" 
     alt: "placeholder image 2"
     title: "Anisotropic Velocity Structure Function Theory"
     excerpt: 'Upper ocean statistics are powerful metrics useful for classifying turbulent regimes, and provide an efficient and scale-selective means of testing model fidelity. However, traditional assumptions of isotropy (directional independence), homogeneity (insensitive to translations in space), and stationarity (insensitive to shifts in time) for oceanic statistics are often unrealized, especially in the coastal oceans and over the submesoscale range of scales. To move away from some of these assumptions, I develop structure function theories for anisotropic turbulence.'
-    url: "https://github.com/jlpearso"
-    btn_label: "Repository"
-    btn_class: "btn--primary"
 feature_row4:
   - image_path: "https://jennalynnpearson.files.wordpress.com/2018/08/screen-shot-2018-08-15-at-2-34-35-pm-e1550359856524.png"
     alt: "placeholder image 2"
