@@ -245,9 +245,9 @@ header:
               <li>GoMRI Scholar, Gulf of Mexico Research Initiative [<a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">Article</a>]</li>
                <li>Deans List, Northeastern Illinois University</li>
                <li>Women in Mathematics, Northeastern Illinois University</li>
-               <li>Army Commendation Medal, ILARNG</li>
-               <li>Command Sergeant Major's Award, ILARNG</li>
                <li>Army Achievement Medal, ILARNG</li>
+               <li>Army Achievement Medal, ILARNG</li>
+               <li>Command Sergeant Major's Award, ILARNG</li>
                <li>National Service Award, ILARNG</li>
          </ul>
 
@@ -258,7 +258,7 @@ header:
            <li>2013</li>
            <li>2011</li>
            <li>2011</li>
-           <li>2011</li>
+           <li>2009</li>
            <li>2006</li>
          </ul>
        <br style="clear:both;" />
