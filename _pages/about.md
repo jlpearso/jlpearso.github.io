@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Biography"
 author_profile: true
 permalink: /about/
 classes: wide
