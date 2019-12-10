@@ -2,6 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 h1.site-title {
 	font-size: 50px;
 	font-family: 'Slabo 27px', serif;
@@ -10,9 +14,5 @@ h1.site-title {
  #site-title {
 font-size: 150px;;
 }
-
-@charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
 $link-color: red;
