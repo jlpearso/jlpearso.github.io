@@ -38,7 +38,7 @@ header:
    </ul>
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/neiulogo.png" alt="neiulogo.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Earth Science</strong></li>
@@ -56,7 +56,7 @@ header:
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Training</strong></p>
 
 <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/09/ncarucar.png" alt="cornelllogo.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Community Earth System Model (CESM) Tutorial 2019</strong></li>
@@ -70,7 +70,7 @@ header:
 <br style="clear:both;" />
 
   <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/06/cornelllogo.png" alt="cornelllogo.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/cornell_logo.png" alt="cornell_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Cornell Satellite Remote Sensing Training Program</strong></li>
@@ -83,7 +83,7 @@ header:
 
 <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/nsflogo.png" alt="nsflogo.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/nsf_logo.png" alt="nsf_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>American Institute of Biological Sciences & RI NSF EPSCoR/RI C-AIM</strong></li>
@@ -96,7 +96,7 @@ header:
 
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2018/05/cropped-brown-university-seal.png" alt="cropped-brown-university-seal.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>The Harriet W. Sheridan Center for Teaching and Learning</strong></li>
@@ -110,7 +110,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/godaelogo.jpg" alt="godaelogo.jpg" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/godae_logo.jpg" alt="godae_logo.jpg" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>GODAE Oceanview International School</strong></li>
@@ -128,7 +128,7 @@ header:
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Professional & Teaching Experience</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2018/05/cropped-brown-university-seal.png" alt="cropped-brown-university-seal.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Research Assistant</strong></li>
@@ -145,7 +145,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/brownspslogo.jpeg" alt="brownspslogo.jpeg" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_sps_logo.jpeg" alt="brown_sps_logo.jpeg" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Course Designer and Co-instructor for Summer @ Brown</strong></li>
@@ -159,7 +159,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2018/05/cropped-brown-university-seal.png" alt="cropped-brown-university-seal.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Teaching Assistant</strong></li>
@@ -173,7 +173,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2018/05/cropped-brown-university-seal.png" alt="cropped-brown-university-seal.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Teaching Assistant</strong></li>
@@ -187,7 +187,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2018/05/cropped-brown-university-seal.png" alt="cropped-brown-university-seal.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
@@ -203,7 +203,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2019/02/harvardlogo.png" alt="harvardlogo.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/harvard_logo.png" alt="harvard_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
