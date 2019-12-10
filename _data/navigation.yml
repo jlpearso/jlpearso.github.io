@@ -9,7 +9,7 @@ main:
   - title: "CV"
     url: /cv/
   - title: "News"
-    url: /year-archive/
+    url: /news/
     
 findme:
   - title: "Find Me"
