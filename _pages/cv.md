@@ -11,7 +11,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a64ca6;"><strong>Education</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
@@ -53,7 +53,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a64ca6;"><strong>Training</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Training</strong></p>
 
 <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
