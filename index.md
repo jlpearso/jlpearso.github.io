@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: About
 author_profile: true
 header:
