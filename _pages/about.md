@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/2dturb_header.jpg
+  #image: /assets/images/2dturb_header.jpg
 ---
 I am a PhD Candidate in the Department of Earth, Environmental and Planetary Sciences at Brown University, where I am a <a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">GoMRI scholar</a> funded by the<a href="http://carthe.org/" target="_blank" rel="noopener noreferrer"> Consortium for Advanced Research on Hydrocarbon Transport in the Environment</a>. My research utilizes regional observational platforms to calculate upper ocean statistics to better understand physical impacts on oil distributions in the Gulf of Mexico as well as the transport and dispersion of nutrients, pollution, and oyster parasites in Narragansett Bay. I use structure functions, alongside other statistics, to isolate key scales and processes. Additionally I am interested in the utility of structure functions in a biogeochemical context. I am developing theory and validating it with a realistic regional ocean model to see what structure functions can tell us about reactive tracers in a turbulent fluid.
 
