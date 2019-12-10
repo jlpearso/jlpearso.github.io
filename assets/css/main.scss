@@ -6,11 +6,5 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-h1.site-title {
-	font-size: 50px;
-	font-family: 'Slabo 27px', serif;
-}
 
- #site-title {
-font-size: 150px;;
-}
+$link-color: #d9b93e;
