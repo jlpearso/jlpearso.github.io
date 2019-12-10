@@ -343,14 +343,13 @@ header:
 </div>
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;ccolor:#45b5aa;"><strong>Service and Outreach</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Service and Outreach</strong></p>
 
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Contributions</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
            <li> Big Bang Science Fair Demonstrator, Waterfire in Providence, RI</li>
            <li> Career Day Geosciences Speaker, Lincoln Middle School</li>
-           <li> Rhode Island Water Sampling Project Volunteer, RI Dept. of Health</li>
            <li>GradCon Coordinator, Brown University</li>
            <li>Elementary School Science Instructor, Vartan Gregorian Elementary</li>
            <li>GRE Math Preparation Course Instructor, Northeastern Illinois University</li>
@@ -362,7 +361,6 @@ header:
    <ul style="list-style-type:none;float:right;text-align:right;">
            <li>Sept 2019</li>
            <li>Apr 2019</li>
-           <li>Spring 2019</li>
            <li>Aug 2018</li>
            <li>2015-2016</li>
            <li>Aug 2015</li>
