@@ -13,7 +13,7 @@ header:
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://jennalynnpearson.files.wordpress.com/2018/05/cropped-brown-university-seal.png" alt="cropped-brown-university-seal.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
