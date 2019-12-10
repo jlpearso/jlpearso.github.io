@@ -11,7 +11,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Education</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
@@ -53,7 +53,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Training</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Training</strong></p>
 
 <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
@@ -126,7 +126,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Professional & Teaching Experience</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Professional & Teaching Experience</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
@@ -221,7 +221,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Awards & Honors</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Awards & Honors</strong></p>
 
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Funding</strong></li>
@@ -319,7 +319,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Skills and Field Experience</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Skills and Field Experience</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Computer Languages:</strong> Matlab, Python, R, Java and LATEX</li>
@@ -343,7 +343,7 @@ header:
 </div>
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Service and Outreach</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;ccolor:#45b5aa;"><strong>Service and Outreach</strong></p>
 
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Contributions</strong></li>
@@ -411,7 +411,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#036;"><strong>Professional Memberships</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Professional Memberships</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li>American Meteorological Society</li>
