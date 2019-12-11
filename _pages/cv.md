@@ -7,6 +7,7 @@ classes: wide
 header:
   #image: /assets/images/2dturb_header.jpg
 ---
+<br/>
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
