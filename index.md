@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Turbulence, transport, and biophysical interactions.
 author_profile: true
 header:
