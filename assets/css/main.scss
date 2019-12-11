@@ -4,12 +4,8 @@
 
 
 $link-color: #d9b93e;
-$background-color: #3e4042;
+$background-color: #574c4f;
 
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
-$link-color: #d9b93e;
-$background-color: #3e4042;
