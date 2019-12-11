@@ -16,7 +16,7 @@ header:
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    
    <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A., Submitted to JGR:  Biases in structure functions from observations of submesoscale flows</li>
+      <li><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A., <i>Under Review</i>:  Biases in structure functions from observations of submesoscale flows</li>
       <li>Summary</li>
    </ul>
 </ol>
