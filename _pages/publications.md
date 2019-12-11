@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-author_profile: true
+#author_profile: true
 classes: wide
 permalink: /publications/
 header:
