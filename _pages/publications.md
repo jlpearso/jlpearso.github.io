@@ -8,8 +8,6 @@ header:
   #image: /assets/images/2dturb_header.jpg
   #caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
 ---
-<br style="clear:both;" />
-<hr style="height:3px;" />
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Peer Reviewed Publications</strong></p>
 <ol style="float:left;text-align:left;">
