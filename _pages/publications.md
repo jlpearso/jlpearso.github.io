@@ -8,8 +8,20 @@ header:
   #image: /assets/images/2dturb_header.jpg
   #caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
 ---
+<br/>
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Peer Reviewed Publications</strong></p>
+  
+   <ol style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+   </ol>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
+      <li>Advisor: Prof. Baylor Fox-Kemper</li>
+   </ul>
+
+
+   <br style="clear:both;" />
 <ol style="float:left;text-align:left;">
       <li><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A., Submitted to JGR:  Biases in structure functions from observations of submesoscale flows</li>
 <br>
