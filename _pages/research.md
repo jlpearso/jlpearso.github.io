@@ -4,7 +4,7 @@ layout: splash
 permalink: /research/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#af7abf"
+  overlay_color: "#009999"
   overlay_filter: "0.5"
   #overlay_image: /assets/images/ocean_eddies.jpg
   caption: ""
