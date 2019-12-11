@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: ""
+title: "Publications"
 #author_profile: true
 classes: wide
 permalink: /publications/
 header:
-  #image: /assets/images/2dturb_header.jpg
-  #caption: "[Simulated Ocean Turbulence.](https://ocean-next.fr/expertise/natl60/)"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/ocean_eddies.jpg
 ---
 <br/>
 <div id='cvsect'>
