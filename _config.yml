@@ -111,11 +111,8 @@ author:
   avatar           : "/assets/images/bio-photo_pearson.jpg"
   bio              : "Biophysical Oceanographer at Brown Unversity."
   location         : "Providence, RI"
-  email            : jennalynnpearson@gmail.com
+  email            : jenna_pearson@brown.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jennalynnpearson@gmail.com
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       #url: "https://jennalynnpearson.com"
