@@ -1,11 +1,12 @@
 ---
 layout: splash
-title: ""
+title: "Curriculum Vitae"
 #author_profile: true
 permalink: /cv/
 classes: wide
 header:
-  #image: /assets/images/2dturb_header.jpg
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/ocean_eddies.jpg
 ---
 <br/>
 <div id='cvsect'>
