@@ -11,7 +11,7 @@ header:
 <br style="clear:both;" />
 <hr style="height:3px;" />
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Peer Reviewed Publications</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Peer Reviewed Publications</strong></p>
 <ol style="float:left;text-align:left;">
       <li><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A., Submitted to JGR:  Biases in structure functions from observations of submesoscale flows</li>
 <br>
@@ -33,7 +33,7 @@ header:
 <hr style="height:3px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#45b5aa;"><strong>Conference Contributions</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Conference Contributions</strong></p>
 <ol style="float:left;text-align:left;">
 <li>Ben-Horin, T., Sane, A., <strong>Pearson, J.</strong>, Fox-Kemper,  B., 2019:  Pathogen Dispersal in Narragansett Bay, <a href="https://fluids-health.mit.edu">Fluids and Health</a>. <strong>Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/08/jenna_pearson_pathogen_dispersal_in_narragansett_bay_flash_talk.pptx">PPT</a>] </li>
        <br>
