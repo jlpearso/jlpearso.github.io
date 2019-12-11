@@ -16,12 +16,12 @@ header:
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
-      <li>Advisor: Prof. Baylor Fox-Kemper</li>
+      <li><strong><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A.,</strong></li>
+      <li><em>Under Review</em>: Biases in structure functions from observations of submesoscale flows</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>2015-Expected 2020</li>
-      <li><em>Brown University</em></li>
+      <li>Expected 2020</li>
+      <li><em>Journal of Geophysical Research: Oceans</em></li>
    </ul>
 
    <br style="clear:both;" />
