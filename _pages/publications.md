@@ -12,9 +12,9 @@ header:
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Peer Reviewed Publications</strong></p>
   
-   <ul style="list-style-type:none;float:left;text-align:left;">
+   <ol style="float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
-   </ul>
+   </ol>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A., Submitted to JGR:  Biases in structure functions from observations of submesoscale flows</li>
       <li>Summary</li>
