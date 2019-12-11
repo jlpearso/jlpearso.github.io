@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: ""
 #author_profile: true
 classes: wide
