@@ -10,7 +10,7 @@ header:
 ---
 <br/>
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Education</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
@@ -52,7 +52,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Training</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Training</strong></p>
 
 <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
@@ -125,7 +125,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Professional & Teaching Experience</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Professional & Teaching Experience</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
@@ -142,9 +142,23 @@ header:
    </ul>
 
    <br style="clear:both;" />
+   
+   <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/brown_logo.jpeg" alt="brown_logo.jpeg" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>Instructor for Summer @ Brown</strong></li>
+      <li>Studying the Ocean from Blackboard to the Bay</li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>Summer 2020</li>
+      <li><em>Brown University</em></li>
+   </ul>
+
+   <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_sps_logo.jpeg" alt="brown_sps_logo.jpeg" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.jpeg" alt="brown_logo.jpeg" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Course Designer and Co-instructor for Summer @ Brown</strong></li>
@@ -220,7 +234,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Awards & Honors</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Awards & Honors</strong></p>
 
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Funding</strong></li>
@@ -318,7 +332,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Skills and Field Experience</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills and Field Experience</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Computer Languages:</strong> Matlab, Python, R, Java and LATEX</li>
@@ -342,7 +356,7 @@ header:
 </div>
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Service and Outreach</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service and Outreach</strong></p>
 
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Contributions</strong></li>
@@ -408,7 +422,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#a3c9b3;"><strong>Professional Memberships</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Professional Memberships</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li>American Meteorological Society</li>
