@@ -52,79 +52,6 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Training</strong></p>
-
-<ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
-   </ul>
-   <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>Community Earth System Model (CESM) Tutorial 2019</strong></li>
-      <li>1 week of lecture and hands on activities to learn to operate CESM. </li>
-   </ul>
-   <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>08/05-08/09 2019</li>
-      <li><em>NCAR, CO</em></li>
-   </ul>
-
-<br style="clear:both;" />
-
-  <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/cornell_logo.png" alt="cornell_logo.png" width="80" height="80" /></li>
-   </ul>
-   <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>Cornell Satellite Remote Sensing Training Program</strong></li>
-      <li>2 week summer course on remote sensing with a focus on ocean color.</li>
-   </ul>
-   <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>06/03-06/14 2019</li>
-      <li><em>Ithaca, NY</em></li>
-   </ul>
-
-<br style="clear:both;" />
-   <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/nsf_logo.png" alt="nsf_logo.png" width="80" height="80" /></li>
-   </ul>
-   <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>American Institute of Biological Sciences & RI NSF EPSCoR/RI C-AIM</strong></li>
-      <li>Enabling Interdisciplinary and Team Science Workshop</li>
-   </ul>
-   <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>Feb 2019</li>
-      <li><em>Kingston, RI</em></li>
-   </ul>
-
-   <br style="clear:both;" />
-   <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
-   </ul>
-   <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>The Harriet W. Sheridan Center for Teaching and Learning</strong></li>
-      <li>Certificate I: Reflective Teaching</li>
-   </ul>
-   <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>Fall 2018</li>
-      <li><em>Providence, RI</em></li>
-   </ul>
-
-   <br style="clear:both;" />
-
-   <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/godae_logo.jpg" alt="godae_logo.jpg" width="80" height="80" /></li>
-   </ul>
-   <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong>GODAE Oceanview International School</strong></li>
-      <li>New frontiers in operational oceanography</li>
-   </ul>
-   <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>Fall 2017</li>
-      <li><em>Mallorca, Spain</em></li>
-   </ul>
-</div>
-
-<br style="clear:both;" />
-<hr style="height:6px;" />
-
-<div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Professional & Teaching Experience</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
@@ -355,7 +282,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills and Field Experience</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills and Training</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Computer Languages:</strong> Matlab, Python, R, Java and LATEX</li>
@@ -372,6 +299,76 @@ header:
       <li><em>Baraboo, WI</em> </li>
       <li>2014</li>
    </ul>
+
+<ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>Community Earth System Model (CESM) Tutorial 2019</strong></li>
+      <li>1 week of lecture and hands on activities to learn to operate CESM. </li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>08/05-08/09 2019</li>
+      <li><em>NCAR, CO</em></li>
+   </ul>
+
+<br style="clear:both;" />
+
+  <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/cornell_logo.png" alt="cornell_logo.png" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>Cornell Satellite Remote Sensing Training Program</strong></li>
+      <li>2 week summer course on remote sensing with a focus on ocean color.</li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>06/03-06/14 2019</li>
+      <li><em>Ithaca, NY</em></li>
+   </ul>
+
+<br style="clear:both;" />
+   <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/nsf_logo.png" alt="nsf_logo.png" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>American Institute of Biological Sciences & RI NSF EPSCoR/RI C-AIM</strong></li>
+      <li>Enabling Interdisciplinary and Team Science Workshop</li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>Feb 2019</li>
+      <li><em>Kingston, RI</em></li>
+   </ul>
+
+   <br style="clear:both;" />
+   <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>The Harriet W. Sheridan Center for Teaching and Learning</strong></li>
+      <li>Certificate I: Reflective Teaching</li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>Fall 2018</li>
+      <li><em>Providence, RI</em></li>
+   </ul>
+
+   <br style="clear:both;" />
+
+   <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/godae_logo.jpg" alt="godae_logo.jpg" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>GODAE Oceanview International School</strong></li>
+      <li>New frontiers in operational oceanography</li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>Fall 2017</li>
+      <li><em>Mallorca, Spain</em></li>
+   </ul>
+</div>
+
+<br style="clear:both;" />
+<hr style="height:6px;" />
 
 <br style="clear:both;" />
 <hr style="height:6px;" />
