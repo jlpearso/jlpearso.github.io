@@ -287,31 +287,22 @@ header:
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Computer Languages:</strong> Matlab, Python, R, Java and LATEX</li>
-      <li><strong>Consortium for Advanced Research on Transport of Hydrocarbon in the Environment III</strong></li>
-      <li>2 weeks launching driftcards in the Gulf of Mexico shelf area of LA</li>
-      <li><strong>Northeastern Illinois University Field School</strong></li>
-      <li>2 weeks producing detailed geologic maps, stereonets, and reports on geomorphological</li>
-      <li>and glacial features of a syncline area</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>2008-Present</li>
-      <li><em>Grand Isle, LA</em> </li>
-      <li>2017</li>
-      <li><em>Baraboo, WI</em> </li>
-      <li>2014</li>
    </ul>
 
    <br style="clear:both;" />
    
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/carthe_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/carthe_logo.png" alt="carthe_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Consortium for Advanced Research on Transport of Hydrocarbon in the Environment III</strong></li>
       <li>2 weeks launching driftcards in the Gulf of Mexico shelf area and optimizing plate detection algorithms. </li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
-      <li>2017</li>
+      <li>Spring 2017</li>
       <li><em>Grand Isle, LA</em></li>
    </ul>
    
@@ -385,6 +376,21 @@ header:
 </div>
 
 <br style="clear:both;" />
+
+   <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>Northeastern Illinois University Field School</strong></li>
+      <li>2 weeks producing detailed geologic maps, stereonets, and reports on geomorphological and glacial features of a syncline area</li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>Summer 2014</li>
+      <li><em>Baraboo, WI</em></li>
+   </ul>
+   
+   <br style="clear:both;" />
+   
 <hr style="height:6px;" />
 
 
