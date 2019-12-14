@@ -304,6 +304,20 @@ header:
    <br style="clear:both;" />
    
    <ul style="list-style-type:none;float:left;text-align:left;">
+    <li> <img src="/assets/images/logos/carthe_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
+   </ul>
+   <ul style="list-style-type:none;float:left;text-align:left;">
+      <li><strong>Consortium for Advanced Research on Transport of Hydrocarbon in the Environment III</strong></li>
+      <li>2 weeks launching driftcards in the Gulf of Mexico shelf area and optimizing plate detection algorithms. </li>
+   </ul>
+   <ul style="list-style-type:none;float:right;text-align:right;">
+      <li>2017</li>
+      <li><em>Grand Isle, LA</em></li>
+   </ul>
+   
+   <br style="clear:both;" />
+   
+   <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
