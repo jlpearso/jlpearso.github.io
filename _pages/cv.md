@@ -286,7 +286,7 @@ header:
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills & Training</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong><font size="+2">Computer Languages:</strong> </font>Matlab, Python, R, Java and LATEX</li>
+      <li><strong><font size="+2">Computer Languages:</font></strong>Matlab, Python, R, Java and LATEX</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>2008-Present</li>
