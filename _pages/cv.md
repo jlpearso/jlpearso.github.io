@@ -283,14 +283,14 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills and Training</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills & Training</strong></p>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Computer Languages:</strong> Matlab, Python, R, Java and LATEX</li>
       <li><strong>Consortium for Advanced Research on Transport of Hydrocarbon in the Environment III</strong></li>
       <li>2 weeks launching driftcards in the Gulf of Mexico shelf area of LA</li>
       <li><strong>Northeastern Illinois University Field School</strong></li>
-<li>2 weeks producing detailed geologic maps, stereonets, and reports on geomorphological</li>
+      <li>2 weeks producing detailed geologic maps, stereonets, and reports on geomorphological</li>
       <li>and glacial features of a syncline area</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
@@ -301,7 +301,9 @@ header:
       <li>2014</li>
    </ul>
 
-<ul style="list-style-type:none;float:left;text-align:left;">
+   <br style="clear:both;" />
+   
+   <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
@@ -313,7 +315,7 @@ header:
       <li><em>NCAR, CO</em></li>
    </ul>
 
-<br style="clear:both;" />
+  <br style="clear:both;" />
 
   <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/cornell_logo.png" alt="cornell_logo.png" width="80" height="80" /></li>
@@ -371,10 +373,6 @@ header:
 <br style="clear:both;" />
 <hr style="height:6px;" />
 
-<br style="clear:both;" />
-<hr style="height:6px;" />
-
-</div>
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service and Outreach</strong></p>
