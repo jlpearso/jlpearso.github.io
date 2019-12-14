@@ -52,7 +52,7 @@ header:
 <hr style="height:6px;" />
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Peer Reviewed Publications</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Peer-Reviewed Publications</strong></p>
 
 <ol style="float:left;text-align:left;">
       <li><strong>Pearson, J.</strong>, Fox-Kemper, B., Pearson, B., Chang, H., Haus, B., Horstmann, J., Huntley, H., Kirwan, D. A., Jr., Poje, A., Submitted to JGR:  Biases in structure functions from observations of submesoscale flows</li>
@@ -396,7 +396,7 @@ header:
 
 
 <div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service and Outreach</strong></p>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service & Outreach</strong></p>
 
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Contributions</strong></li>
