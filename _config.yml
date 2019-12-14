@@ -3,9 +3,9 @@ baseurl:
 plugins: ['jekyll/scholar']
 
 # Site settings
-title: Ryan Abernathey
-email: rpa@ldeo.columbia.edu
-description: "Big Data Oceanography"
+title: Jenna Lynn Pearson
+email: jenna_pearson@brown.edu
+description: "Turbulence, Transport, and Biophysical Processes"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -20,20 +20,18 @@ paginate_path: "/blog/page:num/"
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope
-    url: mailto:rpa@ldeo.columbia.edu
+    url: mailto:jenna_pearson@brown.edu
   - title: twitter
-    url: http://twitter.com/rabernat
-  - title: vimeo
-    url: https://vimeo.com/user3588357
+    url: http://twitter.com/rjlpearso
   - title: github
-    url: http://github.com/rabernat
-  - title: bitbucket
-    url: http://bitbucket.org/ryanaberanthey
+    url: http://github.com/jlpearso
+  #- title: bitbucket
+   # url: http://bitbucket.org/ryanaberanthey
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Brown University
+  - line: Providence, RI
 
 # Build settings
 markdown: kramdown
