@@ -7,8 +7,6 @@ $link-color: #efdab9;
 $background-color: #574c4f;
 $masthead-link-color: #829db3;
 $link-color-visited: #efdab9;
-$masthead-link-color-hover: $primary-color
-$navicon-link-color-hover: $primary-color
 
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
