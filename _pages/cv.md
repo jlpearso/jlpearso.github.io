@@ -144,7 +144,7 @@ header:
    <br style="clear:both;" />
    
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.jpeg" alt="brown_logo.jpeg" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Instructor for Summer @ Brown</strong></li>
@@ -158,7 +158,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.jpeg" alt="brown_logo.jpeg" width="80" height="80" /></li>
+    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Course Designer and Co-instructor for Summer @ Brown</strong></li>
