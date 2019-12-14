@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/ocean_eddies.jpg
   caption: ""
-excerpt: "Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales."
+excerpt: ""
 intro: 
-  - excerpt: ''
+  - excerpt: 'Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.'
 feature_row1:
   - image_path: "https://jennalynnpearson.files.wordpress.com/2019/10/ttd_bottom.gif" 
     alt: "ROMS simulation of passive tracers from two known sources."
