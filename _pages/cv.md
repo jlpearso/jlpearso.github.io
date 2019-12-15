@@ -10,7 +10,7 @@ header:
 ---
 <div id="cvhdr"><img id="img2" src="https://jennalynnpearson.files.wordpress.com/2019/10/me.jpg" style = "width:150px;height: 150px;border-radius:50%;" align="right" />
 <h1> Jenna L. Pearson </h1>
-<h2 style="text-align:float left;color:#FFFFFF;><strong>Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.</strong>
+<h2 style="text-align:float left;color:#FFFFFF;"><strong>Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.</strong>
 
 <br>
 
