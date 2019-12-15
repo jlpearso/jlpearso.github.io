@@ -41,7 +41,7 @@ header:
        <br>
 <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019:  Do surface drifters accurately represent Eulerian turbulence statistics?, LAPCOD. <strong>Oral</strong>.  [<a href="https://jennalynnpearson.files.wordpress.com/2019/08/lapcod_2019.pdf">PDF</a>] </li>
        <br>
-<li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019:  Do surface drifters accurately capture turbulent mixing in the Gulf of Mexico?, Earth Itself 2019. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/04/earthitself_2019.pdf" target="_blank">PDF</a>] </li>
+<li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019:  Do surface drifters accurately capture turbulent mixing in the Gulf of Mexico?, Earth Itself 2019. Poster. </li>
        <br>
 <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019: Do surface drifters accurately capture turbulent mixing in the Gulf of Mexico?, RI C-AIM Research Symposium 2019. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/04/ricaim_2019.pdf" target="_blank">PDF</a>] </li>
        <br>
@@ -49,24 +49,24 @@ header:
        <br>
        <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, GRC. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
        <br>
-      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. KITP, Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
+      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. KITP, Poster.</li>
       <br>
-       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, Waters Edge. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li><br>
+       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, Waters Edge. Poster.</li><br>
        <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. OSM, abstract PS33A-01. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
       <br>
       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2017:  Evaluation of Lagrangian Structure Function Statistics in the Gulf of Mexico. AOFD. <strong>Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/aofdfall2017.pdf" target="_blank" rel="noopener noreferrer">PDF</a>, <a href="https://ams.confex.com/ams/21Fluid19Middle/recordingredirect.cgi/id/38560?entry_password=591011&uniqueid=Paper319581" target="_blank" rel="noopener noreferrer">Recording</a>]</li>
       <br>
-      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2017:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. GODAE International School. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
+      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2017:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. GODAE International School. Poster.  </li>
       <br>
-      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B., Bodner, A., 2016: Preparing for Model-Data Comparison:  Structure Functions and Frontogenesis. CARTHE II All Hands Meeting. <strong>Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/carthe_all_hands_meeting_fall2016.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]</li>
+      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B., Bodner, A., 2016: Preparing for Model-Data Comparison:  Structure Functions and Frontogenesis. CARTHE II All Hands Meeting. <strong>Oral</strong>.</li>
       <br>
-     <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2016:  Structure Function Statistics to Detect Submesoscale Cascades. OSM, abstract PO34C-3066. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/oceansciences2016.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]</li>
+     <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2016:  Structure Function Statistics to Detect Submesoscale Cascades. OSM, abstract PO34C-3066. Poster. </li>
       <br>
-      <li>Xia,  C.,  Cochrane,  C.,  DeGuire,  J.,  Fan,  G.,  Holmes,  E.,  McGuirl,  M.,  Murphy, <strong>Palmer, J.</strong>, P.,  Carter,  P.,  Slivinski, L.,  &  Sandstede,  B.,  2015: Microscopic and macroscopic traffic modeling utilizing data assimilation. The 5th Workshop in Statistical & Mathematical Modeling. <strong>Invited Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/microscopic-and-macroscopic-traffic-modeling-utilizing-data-assimilation.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]</li>
+      <li>Xia,  C.,  Cochrane,  C.,  DeGuire,  J.,  Fan,  G.,  Holmes,  E.,  McGuirl,  M.,  Murphy, <strong>Palmer, J.</strong>, P.,  Carter,  P.,  Slivinski, L.,  &  Sandstede,  B.,  2015: Microscopic and macroscopic traffic modeling utilizing data assimilation. The 5th Workshop in Statistical & Mathematical Modeling. <strong>Invited Oral</strong>.</li>
       <br>
-      <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. MaPS Scholars Fall Meeting. <strong>Invited Oral.</strong> [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/microscopic-and-macroscopic-traffic-modeling-utilizing-data-assimilation-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]</li>
+      <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. MaPS Scholars Fall Meeting. <strong>Invited Oral.</strong></li>
       <br>
-      <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. Harvard Summer Research Symposium. <strong>Oral.</strong> [PDF, <a href="https://jennalynnpearson.files.wordpress.com/2019/02/stat-gen-t2d.m4a" target="_blank" rel="noopener noreferrer">Recording</a>]</li>
+      <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. Harvard Summer Research Symposium. <strong>Oral.</strong></li>
    </ol>
 
    <br style="clear:both;" />
