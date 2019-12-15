@@ -49,7 +49,6 @@ header:
    </ul>
 
 <br style="clear:both;" />
-<hr style="height:6px;" />
 
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Professional & Teaching Experience</strong></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
