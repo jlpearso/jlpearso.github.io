@@ -1,13 +1,14 @@
----
-layout: splash
-title: "Curriculum Vitae"
-#author_profile: true
-permalink: /cv/
-classes: wide
-header:
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/ocean_eddies.jpg
----
+<div id="cvhdr"><img id="img2" src="https://jennalynnpearson.files.wordpress.com/2019/10/me.jpg" width="150" height="150" align="right" />
+<h1> Jenna L. Pearson </h1>
+<h2 style="text-align:float left;color:#003366"><strong>Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.</strong></h2>
+<br>
+Connect with me at <strong>jenna_pearson@brown.edu</strong></p>
+
+</div>
+
+
+
+<br style="clear:both;" />
 <br/>
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><b>Education</b></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
@@ -24,7 +25,7 @@ header:
 
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="45" height="55" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="45" height="55" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Mathematics</strong></li>
@@ -36,7 +37,7 @@ header:
    </ul>
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="45" height="55" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="45" height="55" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Earth Science</strong></li>
@@ -51,14 +52,13 @@ header:
 
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Professional & Teaching Experience</strong></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Research Assistant</strong></li>
-      <li>Advisor:  Prof.  Baylor Fox-Kemper</li>
-      <li>Statistical methods paired with models, observations, and theory</li>
-      <li>to isolate biases in quasi-Lagrangian observation platforms and</li>
-      <li>reactive-tracer fields in the presence of turbulence</li>
+      <li><em>Advisor:  Prof.  Baylor Fox-Kemper</em></li>
+      <li>Models, observations, and theory to isolate statistical biases</li>
+      <li> and benefits of surface drifters in the coastal ocean.</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Fall 2015-Present</li>
@@ -68,11 +68,11 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Instructor for Summer @ Brown</strong></li>
-      <li>Studying the Ocean from Blackboard to the Bay</li>
+      <li><em>Studying the Ocean from Blackboard to the Bay</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Summer 2020</li>
@@ -82,11 +82,11 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Course Designer and Co-instructor for Summer @ Brown</strong></li>
-      <li>Studying the Ocean from Blackboard to Drones</li>
+      <li><em>Studying the Ocean from Blackboard to Drones</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Summer 2018 & 2019</li>
@@ -96,11 +96,11 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Teaching Assistant</strong></li>
-      <li>Intro. to Oceanography under Prof.  Steve Clemens</li>
+      <li><em>Intro. to Oceanography under Prof.  Steve Clemens</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Spring 2019</li>
@@ -110,11 +110,11 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Teaching Assistant</strong></li>
-      <li>Global Climate & Weather under Prof.  Amanda Lynch</li>
+      <li><em>Global Climate & Weather under Prof.  Amanda Lynch</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Fall 2017</li>
@@ -124,13 +124,13 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
       <li>Advisor:  Prof.  Björn Sandstede, Division of Applied Mathematics</li>
-      <li>Analysis of data assimilation and parameter estimation schemes</li>
-      <li>applied to traffic models</li>
+      <li><em>Analysis of data assimilation and parameter estimation schemes</em></li>
+      <li><em>applied to traffic models</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Summer 2014</li>
@@ -140,13 +140,13 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/harvard_logo.png" alt="harvard_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/harvard_logo.png" alt="harvard_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
       <li>Advisor:  Prof.  Alkes Price, Department of Epidemiology</li>
-      <li>Statistical methods to infer consistency across populations of genetic</li>
-<li>variants associated with type-II diabetes</li>
+      <li><em>Statistical methods to infer consistency across populations of genetic</em></li>
+<li><em>variants associated with type-II diabetes</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>Summer 2013</li>
@@ -222,7 +222,7 @@ header:
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Skills & Training</strong></h1>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><strong><font size="+2">Computer Languages:</font></strong> Matlab, Python, R, Java and LATEX</li>
+      <li><strong><h3>Computer Languages:</h3></strong> Matlab, Python, R, Java and LATEX</li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>2008-Present</li>
@@ -231,7 +231,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/carthe_logo.png" alt="carthe_logo.png" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/carthe_logo.png" alt="carthe_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Consortium for Advanced Research on Transport of Hydrocarbon in the Environment III</strong></li>
@@ -245,7 +245,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Community Earth System Model (CESM) Tutorial 2019</strong></li>
@@ -259,7 +259,7 @@ header:
   <br style="clear:both;" />
 
   <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/cornell_logo.png" alt="cornell_logo.png" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/cornell_logo.png" alt="cornell_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Cornell Satellite Remote Sensing Training Program</strong></li>
@@ -272,7 +272,7 @@ header:
 
 <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/nsf_logo.png" alt="nsf_logo.png" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/nsf_logo.png" alt="nsf_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>American Institute of Biological Sciences & RI NSF EPSCoR/RI C-AIM</strong></li>
@@ -285,7 +285,7 @@ header:
 
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>The Harriet W. Sheridan Center for Teaching and Learning</strong></li>
@@ -299,7 +299,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/godae_logo.jpg" alt="godae_logo.jpg" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/godae_logo.jpg" alt="godae_logo.jpg" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>GODAE Oceanview International School</strong></li>
@@ -314,7 +314,7 @@ header:
 <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="80" height="80" /></li>
+    <li> <img id = "cv_logo" src="/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Northeastern Illinois University Field School</strong></li>
@@ -328,10 +328,8 @@ header:
  </div>
 
 <br style="clear:both;" />
-<hr style="height:6px;" />
 
-<div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service & Outreach</strong></p>
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Service & Outreach</strong></h1>
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Contributions</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
@@ -388,13 +386,11 @@ header:
          </ul>
        <br style="clear:both;" />
    </ul>
-</div>
+
 
 <br style="clear:both;" />
-<hr style="height:6px;" />
 
-<div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Professional Memberships</strong></p>
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Professional Memberships</strong></h1>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li>American Meteorological Society</li>
@@ -409,10 +405,3 @@ header:
       <li>2015-Present</li>
    </ul>
 <br style="clear:both;" />
-
-
-</div>
-
-
-<br style="clear:both;" />
-<hr style="height:6px;" />
