@@ -54,18 +54,18 @@ header:
        <br>
 <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019:  Do surface drifters accurately capture turbulent mixing in the Gulf of Mexico?, Earth Itself 2019. Poster. </li>
        <br>
-<li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019: Do surface drifters accurately capture turbulent mixing in the Gulf of Mexico?, RI C-AIM Research Symposium 2019. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/04/ricaim_2019.pdf" target="_blank">PDF</a>] </li>
+<li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Huntley,  H., Chang,  H., Kirwan,  D.,  Jr., Pearson, B., 2019: Do surface drifters accurately capture turbulent mixing in the Gulf of Mexico?, RI C-AIM Research Symposium 2019. Poster. </li>
        <br>
    <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2019:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, CLIVAR. <strong>Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/03/clivar_2019.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
        <br>
-       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, GRC. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
+       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, GRC. Poster.  </li>
        <br>
       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. KITP, Poster.</li>
       <br>
        <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of convergence zones on Lagrangian structure function statistics in the Gulf of Mexico, Waters Edge. Poster.</li><br>
        <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2018:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. OSM, abstract PS33A-01. Poster. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/osm2018.pdf" target="_blank" rel="noopener noreferrer">PDF</a>] </li>
       <br>
-      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2017:  Evaluation of Lagrangian Structure Function Statistics in the Gulf of Mexico. AOFD. <strong>Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/02/aofdfall2017.pdf" target="_blank" rel="noopener noreferrer">PDF</a>, <a href="https://ams.confex.com/ams/21Fluid19Middle/recordingredirect.cgi/id/38560?entry_password=591011&uniqueid=Paper319581" target="_blank" rel="noopener noreferrer">Recording</a>]</li>
+      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2017:  Evaluation of Lagrangian Structure Function Statistics in the Gulf of Mexico. AOFD. <strong>Oral</strong>. [ <a href="https://ams.confex.com/ams/21Fluid19Middle/recordingredirect.cgi/id/38560?entry_password=591011&uniqueid=Paper319581" target="_blank" rel="noopener noreferrer">Recording</a>]</li>
       <br>
       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2017:  Impacts of Convergence Zones on Lagrangian Structure Function Statistics in the Gulf of Mexico. GODAE International School. Poster.  </li>
       <br>
