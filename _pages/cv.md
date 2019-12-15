@@ -12,7 +12,7 @@ header:
 
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Education</strong></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="75" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
