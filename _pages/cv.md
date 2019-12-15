@@ -15,7 +15,7 @@ header:
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><b>PhD in Earth, Environmental and Planetary Sciences</b></li>
-      <li>Advisor: Prof. Baylor Fox-Kemper</li>
+      <li><em>Advisor: Prof. Baylor Fox-Kemper</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>2015-Expected 2020</li>
