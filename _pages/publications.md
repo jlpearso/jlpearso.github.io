@@ -33,6 +33,17 @@ header:
 <hr style="height:3px;" />
 
 <div id='cvsect'>
+   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Invited Presentations</strong></p>
+  <ol>
+          <li>Xia,  C.,  Cochrane,  C.,  DeGuire,  J.,  Fan,  G.,  Holmes,  E.,  McGuirl,  M.,  Murphy, <strong>Palmer, J.</strong>, P.,  Carter,  P.,  Slivinski, L.,  &  Sandstede,  B.,  2015: Microscopic and macroscopic traffic modeling utilizing data assimilation. The 5th Workshop in Statistical & Mathematical Modeling. <strong>Invited Oral</strong>.</li>
+      <br>
+      <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. MaPS Scholars Fall Meeting. <strong>Invited Oral.</strong> </li>
+  </ol>
+</div>
+<br style="clear:both;" />
+<hr style="height:3px;" />
+
+<div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Conference Contributions</strong></p>
 <ol style="float:left;text-align:left;">
 <li>Ben-Horin, T., Sane, A., <strong>Pearson, J.</strong>, Fox-Kemper,  B., 2019:  Pathogen Dispersal in Narragansett Bay, <a href="https://fluids-health.mit.edu">Fluids and Health</a>. <strong>Oral</strong>. [<a href="https://jennalynnpearson.files.wordpress.com/2019/08/jenna_pearson_pathogen_dispersal_in_narragansett_bay_flash_talk.pptx">PPT</a>] </li>
@@ -61,10 +72,6 @@ header:
       <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B., Bodner, A., 2016: Preparing for Model-Data Comparison:  Structure Functions and Frontogenesis. CARTHE II All Hands Meeting. <strong>Oral</strong>.</li>
       <br>
      <li><strong>Pearson, J.</strong>,  Fox-Kemper,  B.,  Barkan,  R.,  Choi,  J.,  Bracco,  A.,  &  McWilliams,  J.,  2016:  Structure Function Statistics to Detect Submesoscale Cascades. OSM, abstract PO34C-3066. Poster. </li>
-      <br>
-      <li>Xia,  C.,  Cochrane,  C.,  DeGuire,  J.,  Fan,  G.,  Holmes,  E.,  McGuirl,  M.,  Murphy, <strong>Palmer, J.</strong>, P.,  Carter,  P.,  Slivinski, L.,  &  Sandstede,  B.,  2015: Microscopic and macroscopic traffic modeling utilizing data assimilation. The 5th Workshop in Statistical & Mathematical Modeling. <strong>Invited Oral</strong>.</li>
-      <br>
-      <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. MaPS Scholars Fall Meeting. <strong>Invited Oral.</strong></li>
       <br>
       <li><strong>Palmer, J.</strong>,Santana, L., Anderson, R., Price, A., 2013: Consistency across ancestries of genetic associations of type-II diabetes. Harvard Summer Research Symposium. <strong>Oral.</strong></li>
    </ol>
