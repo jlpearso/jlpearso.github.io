@@ -158,7 +158,7 @@ header:
 
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Awards & Honors</strong></h1>
    <ul style="list-style-type:none;text-align:left;">
-      <li><strong>Funding</strong></li>
+      <li><span style = font-weight: bold;>Funding</span´></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
            <li>Brown Fellow, Brown University</li>
            <li>NSF MaPs Scholar, Northeastern Illinois University</li>
