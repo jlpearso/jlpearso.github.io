@@ -156,9 +156,7 @@ header:
 
 <br style="clear:both;" />
 
-<div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Awards & Honors</strong></p>
-
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Professional & Teaching Experience</strong></h1>
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Funding</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
@@ -218,10 +216,8 @@ header:
            <li>2012</li>
          </ul>
 </ul>
-</div>
 
 <br style="clear:both;" />
-<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills & Training</strong></p>
