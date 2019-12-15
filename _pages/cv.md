@@ -336,11 +336,10 @@ header:
    </ul>
    
 <hr style="height:6px;" />
-
+<br style="clear:both;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service & Outreach</strong></p>
-
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Contributions</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
