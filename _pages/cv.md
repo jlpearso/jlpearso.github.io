@@ -11,7 +11,6 @@ header:
 <br/>
 
 <span style="color:#78b0a0"># **Education** </span>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="60" height="90" /></li>
    </ul>
@@ -26,7 +25,7 @@ header:
 
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="60" height="90" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="60" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Mathematics</strong></li>
@@ -38,7 +37,7 @@ header:
    </ul>
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="60" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Earth Science</strong></li>
