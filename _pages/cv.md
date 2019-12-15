@@ -334,9 +334,10 @@ header:
       <li>Summer 2014</li>
       <li><em>Baraboo, WI</em></li>
    </ul>
-   
-<hr style="height:6px;" />
+ </div>
+ 
 <br style="clear:both;" />
+<hr style="height:6px;" />
 
 <div id='cvsect'>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Service & Outreach</strong></p>
