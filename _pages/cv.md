@@ -156,7 +156,7 @@ header:
 
 <br style="clear:both;" />
 
-<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Professional & Teaching Experience</strong></h1>
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Awards & Honors</strong></h1>
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Funding</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
