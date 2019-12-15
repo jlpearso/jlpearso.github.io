@@ -1,20 +1,822 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="home">
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KDPB6FF');</script>
+  <!-- End Google Tag Manager -->
 
-  <h1>Posts</h1>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51796304-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+    gtag('config', 'UA-51796304-2');
+  </script>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Jacob Wenegrat - Ocean Dynamics at the University of Maryland, College Park</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/agency.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDPB6FF"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Jacob Wenegrat</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav text-uppercase ml-auto">
+          <!-- <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>-->
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#research">Research</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#teaching">Teaching</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#publications">Publications</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#people">People</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead">
+    <div class="container">
+      <div class="intro-text">
+        <div class="intro-heading text-uppercase">Ocean Dynamics</div>
+        <div class="intro-lead-in"><a href="http://www.aosc.umd.edu" target="_blank" style="color:white"
+          >Department of Atmospheric and Oceanic Science<br>University of Maryland, College Park</a></div>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#research">Learn about our work</a>
+      </div>
+    </div>
+  </header>
+
+
+
+  <!-- Research Grid -->
+  <section class="bg-light page-section" id="research">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Research</h2>
+          <h3 class="section-subheading text-muted"> We study the geophysical fluid dynamics (GFD) of the ocean and atmosphere, using theory, state-of-the-art high-resolution numerical models, and observations. A particular focus of our work is the ocean submesoscale (horizontal scales of 0.1-10 kms),
+            a range of scales which are particularly challenging for traditional observational and computational methods.
+           Understanding the dynamics of the ocean submesoscale is currently one of the most outstanding challenges in ocean physics, with fundamental connections to large-scale ocean circulation, ocean primary productivity, and air-sea interaction.
+           <br> <br>Click the below topics for more info, or see <a class="js-scroll-trigger" href="#publications">publications</a>.
+          </h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/seamount-thumbnail.jpg" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4>Bottom boundary layer </h4>
+            <p class="text-muted">Submesoscale processes in the ocean bottom boundary layer</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/MSHARK-thumbnail.jpg" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4>Upper-ocean processes</h4>
+            <p class="text-muted">Dynamics and biophysical interaction in the near-surface ocean</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/viirs-so-cal.jpg" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4>Air-sea interaction</h4>
+            <p class="text-muted">Coupled interaction between the atmosphere and ocean </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Teaching -->
+  <section class="page-section" id="teaching">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Teaching</h2>
+          <h3 class="section-subheading text-muted">Coming soon!</h3>
+        </div>
+      </div>
+
+<!--      <div class="row text-center">
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">E-Commerce</h4>
+          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">Responsive Design</h4>
+          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">Web Security</h4>
+          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        </div>
+      </div> -->
+    </div>
+
+      <img src="./img/RotatingTable.jpg" class="w-100 img-fluid" alt="Responsive image">
+
+  </section>
+
+  <!-- Publications -->
+  <section class="page-section" id="publications">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Publications</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h4 class="section-subheading-large text-muted">Submitted</h4>
+        </div>
+        <ol reversed class='biblio'>
+          <li><b>Wenegrat, J.O.</b>, L.N. Thomas, M. Sundermeyer, J.R. Taylor, E.A. D'Asaro, J. Klymak, R.K. Shearman, and C.M. Lee:
+            Enhanced mixing across the gyre boundary at the Gulf Stream front.
+         </li>
+         <li>Johnson, L., C.M. Lee, E.A. D'Asaro, <b>J.O. Wenegrat</b>, and L.N. Thomas:
+           A stratifying submesoscale front, part 2: Dynamics. <i> J. Phys. Oceanogr.</i></li>
+         </ol>
+       </div>
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h4 class="section-subheading-large text-muted">Published</h4>
+    </div>
+      <ol reversed class='biblio'>
+        <li><b>Wenegrat, J.O.</b>, and R.S. Arthur, 2018:
+          Response of the atmospheric boundary layer to submesoscale sea-surface temperature fronts.
+          <i>Geophys. Res. Lett.</i> <b>45</b>, 24, 13505-13512. doi: 10.1029/2018GL081034 <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL081034" target="_blank">online</a>
+          <a href="./publications/WenegratArthur2018.pdf" target="_blank">pdf</a>
+          </li>
+        </li>
+        <li><b>Wenegrat, J.O.</b>, J. Callies, and L.N. Thomas, 2018:
+          Submesoscale baroclinic instability in the bottom boundary layer.
+          <i>J. Phys. Oceanogr.</i> <b>48</b>, 11, 2571-2592. doi: 10.1175/JPO-D-17-0264.1
+          <a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-17-0264.1" target="_blank">online</a>
+          <a href="./publications/WenegratEtAl2018b.pdf" target="_blank">pdf</a>
+        </li>
+        <li><b>Wenegrat, J.O.</b>, L.N. Thomas, J. Gula, and J.C. McWilliams, 2018:
+          Effects of the submesoscale on the potential vorticity budget of ocean mode waters.
+          <i>J. Phys. Oceanogr.</i> <b>48</b>, 9, 2141-2165. doi: 10.1175/JPO-D-17-0219.1
+            <a href="https://journals.ametsoc.org/doi/full/10.1175/JPO-D-17-0219.1" target="_blank">online</a>
+            <a href="./publications/WenegratEtAl2018a.pdf" target="_blank">pdf</a>
+          </li>
+        <li><b>Wenegrat, J.O.</b>, and L.N. Thomas, 2017:
+           Ekman transport in balanced currents with curvature.
+           <i>J. Phys. Oceanogr.</i> 47, 5, 1189-1203. doi: 10.1175/JPO-D-16-0239.1
+                <a href="https://journals.ametsoc.org/doi/full/10.1175/JPO-D-16-0239.1" target="_blank">online</a>
+                <a href="./publications/WenegratThomas2017.pdf" target="_blank">pdf</a>
+              </li>
+        <li><b>Wenegrat, J.O.</b>, and M.J. McPhaden, 2016:
+           A simple analytical model of the diurnal Ekman layer.
+           <i>J. Phys. Oceanogr.</i> <b>46</b>, 9, 2877-2894. doi: 10.1175/JPO-D-16-0031.1
+           <a href="https://journals.ametsoc.org/doi/full/10.1175/JPO-D-16-0031.1" target="_blank">online</a>
+           <a href="./publications/WenegratMcPhaden2016b.pdf" target="_blank">pdf</a>
+         </li>
+         <li><b>Wenegrat, J.O.</b>, and M.J. McPhaden, 2016:
+               Wind, waves, and fronts: Frictional effects in a generalized Ekman model.
+               <i>J. Phys. Oceanogr.</i>, 46, 2, 371-394. doi: 10.1175/JPO-D-15-0162.1
+              <a href="https://journals.ametsoc.org/doi/full/10.1175/JPO-D-15-0162.1" target="_blank">online</a>
+              <a href="./publications/WenegratMcPhaden2016a.pdf" target="_blank">pdf</a>
+            </li>
+         <li><b>Wenegrat, J.O.</b>, and M.J. McPhaden, 2015:
+           Dynamics of the surface layer diurnal cycle in the equatorial Atlantic Ocean (0°, 23°W),
+           <i>J. Geophys. Res. Oceans</i>, 120, 563-581, doi: 10.1002/2014JC010504
+                   <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JC010504" target="_blank">online</a>
+                   <a href="./publications/WenegratMcPhaden2015.pdf" target="_blank">pdf</a>
+          </li>
+         <li><b>Wenegrat, J.O.</b>, M.J. McPhaden, and R.-C. Lien, 2014:
+           Wind stress and near-surface shear in the equatorial Atlantic Ocean.
+           <i>Geophys. Res. Lett.</i>, <b>41</b>, 1226-1231, doi: 10.1002/2013GL059149
+                  <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL059149" target="_blank">online</a>
+                  <a href="./publications/WenegratEtAl2014.pdf" target="_blank">pdf</a>
+                </li>
+        </ol>
+
+    </div>
+
+  </div>
+<!--    <img src="./img/Landsat.jpg" class="img-fluid" alt="Landsat 8 image via NASA/USGS https://earthobservatory.nasa.gov/images/144643/jupiter-or-earth">
+-->
+<img src="./img/SuomiNPP.jpg" class="w-100 img-fluid" alt="SUOMI/VIIRS courtesy of NASA">
+
+</section>
+  <!--    <div class="row">
+        <div class="col-lg-12">
+          <ul class="timeline">
+            <li>
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>2009-2011</h4>
+                  <h4 class="subheading">Our Humble Beginnings</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>March 2011</h4>
+                  <h4 class="subheading">An Agency is Born</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>December 2012</h4>
+                  <h4 class="subheading">Transition to Full Service</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>July 2014</h4>
+                  <h4 class="subheading">Phase Two Expansion</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image">
+                <h4>Be Part
+                  <br>Of Our
+                  <br>Story!</h4>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+-->
+  <!-- People -->
+  <section class="bg-light page-section" id="people">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">People</h2>
+          <h3 class="section-subheading text-muted">Click the photos for more info.</h3>
+   </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4"> <!-- Filling space here -->
+        </div>
+        <div class="col-sm-4">
+
+  <!--        <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
+            </a>-->
+
+
+          <div class="team-member">
+            <a class="portfolio-link" data-toggle="modal" href="#teamModal1">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+            <img class="mx-auto rounded-circle" src="img/team/WENEGRAT_Jacob-thumb.jpg" alt="">
+          </a>
+            <h4>Jacob Wenegrat</h4>
+            <p class="text-muted">Assistant Professor<br>Atmospheric and Oceanic Science </p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="mailto:wenegrat@umd.edu">
+                  <i class="far fa-envelope"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="http://www.twitter.com/roguewave" target="_blank">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="http://www.github.com/wenegrat" target="_blank">
+                  <i class="fab fa-github"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+                </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <p class="large text-muted">Opportunities are now available for undergraduate researchers, PhD students, and postdocs to join my group at the University of Maryland, College Park. It helps to have a strong background in topics like math, physics, and scientific programming, but no experience in oceanography or ocean dynamics is necessary. If you would like to learn more, please <a class="js-scroll-trigger" href="#contact">get in touch</a> to discuss possible research topics, funding opportunities, and how to apply.
+      </div>
+      </div>
+
+    </div>
+
+      <img src="./img/SoOceanPhyto.jpg" class="w-100 img-fluid" alt="Responsive image">
+
+  </section>
+
+
+
+
+
+  <!-- Contact -->
+  <section class="page-section" id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Contact</h2><br>
+          <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <h3 class="section-heading">Jacob Wenegrat</h3><br>
+          <a href="https://www.aosc.umd.edu/" target="_blank">Department of Atmospheric and Oceanic Science</a> <br>
+          University of Maryland, College Park <br>
+          4254 Stadium Dr. <br>
+          College Park, MD 20740<br>
+          <br>
+          <br>
+          Email: <a href="mailto:wenegrat@umd.edu">wenegrat@umd.edu</a> <br>
+<br><br>
+          <a href="https://umd.edu/" target='_blank'>
+            <img class="img-fluid d-block mx-auto" src="img/logos/umd.gif" alt="">
+          </a>
+          <br><br>
+        </div>
+        <div class="col-md-8">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3101.0777316719764!2d-76.94450424879946!3d38.990722279456115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6988b6256cf%3A0x3c2cb8d40a8d59c8!2sAtlantic%20Building!5e0!3m2!1sen!2sus!4v1569540875954!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+      <!--<div class="col-lg-12">
+          <form id="contactForm" name="sentMessage" novalidate="novalidate">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+              <div class="col-lg-12 text-center">
+                <div id="success"></div>
+                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+              </div>
+            </div>
+          </form>
+        </div>-->
+      </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <!-- Clients -->
+
+
+
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4">
+          <span class="copyright">Copyright &copy; Jacob Wenegrat 2019</span>
+        </div>
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+            <li class="list-inline-item">
+              <a href="mailto:wenegrat@umd.edu">
+                <i class="far fa-envelope"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="http://www.twitter.com/roguewave" target="_blank">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="http://www.github.com/wenegrat" target="_blank">
+                <i class="fab fa-github"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <ul class="list-inline quicklinks">
+
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Portfolio Modals -->
+
+  <!-- Modal 1 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Bottom boundary layer</h2>
+                <p class="item-intro text-muted">Submesoscale processes in the ocean bottom boundary layer</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/dyesnap.jpg" alt="">
+                <p>
+                  Submesoscale instabilities, fronts, and eddies are a prominent part of the dynamics of the surface boundary layer,
+                  with a wide-range of well documented effects on ocean dynamics, biology, and biogeochemistry.
+                  However, despite key similarities between surface mixed layers at a front and bottom boundary layers (BBLs) over topography,
+                  relatively little is known about the effect of submesoscale turbulence on BBL dynamics.
+                </p>
+                <p>
+                  Our recent work on this topic has shown that the full range of submesoscale instabilities can develop in the BBL.
+                  This finding has implications for how nutrients and pollutants are mixed in coastal regions,
+                  the energetics of the ocean circulation,
+                  and how the deep abyssal waters make their way back to the ocean surface. Many of these topics are the subject of active ongoing research, with available PhD and postdoctoral projects (please <a href="mailto:wenegrat@umd.edu">contact me</a> for more information).
+                </p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close window</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 2 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Upper-ocean processes</h2>
+                <p class="item-intro text-muted">Dynamics and biophysical interaction in the near-surface ocean</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/CHESA2MOV_350.png" alt="">
+                <p> The ocean surface boundary layer plays a key role in mediating the interaction between the ocean and atmosphere. Submesoscale processes
+                  are a critical, but largely unexplored, part of this, and our recent work has also shown that they have wide-ranging effects on the broader ocean circulation,
+                  from boundary-layer turbulence to the gyre-scale circulation,
+                  with implications for ocean biogeochemistry, climate, and improving the accuracy of large-scale climate models.
+                                  </p>
+                <p>
+                  Some of the specific topics we are currently working on include how ocean fronts modify the dispersion of tracers
+                  (such as nutrients or pollutants), how frontal instabilities modify turbulence near the surface, and how wind-forced flows are modified by ocean currents.
+                  Right now is a particularly exciting time to work on these problems as increased computational power, and the development of new observational instruments, are continually
+                  opening new lines of inquiry. Please <a href="mailto:wenegrat@umd.edu">get in touch</a> if you would like to discuss opportunities to get involved.
+                </p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close window</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 3 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Air-sea interaction</h2>
+                <p class="item-intro text-muted">Coupled interaction between the atmosphere and ocean</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/taomooring.jpg" alt="">
+                <p>
+                Upper ocean processes exert strong controls on the atmospheric boundary layer, with changes in sea-surface temperature modifying surface winds and heat fluxes, coupling the ocean and atmosphere.
+                Much of our understanding of these coupled dynamics was derived considering the ocean mesoscale
+                (horizontal scales of approximately 10 - 100 kms),
+                and the atmospheric response to smaller-scale ocean variability is not well understood. Recently we have used very high resolution Large-Eddy Simulations
+                to examine how submesoscale fronts can strongly modify the structure of winds and temperature in the atmospheric boundary layer, in ways that are not currently captured in most ocean and atmosphere models.
+              </p>
+              <p>
+                These topics are the subject of ongoing work, with the potential to help refine our understanding
+                 of air-sea interaction and coupling across scales, as well as to improve forecasting of the marine atmospheric
+                 boundary layer, with possible applications to future satellite observing missions.
+                </p>
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 4 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Project Name</h2>
+                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
+                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <ul class="list-inline">
+                  <li>Date: January 2017</li>
+                  <li>Client: Lines</li>
+                  <li>Category: Branding</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 5 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Project Name</h2>
+                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
+                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <ul class="list-inline">
+                  <li>Date: January 2017</li>
+                  <li>Client: Southwest</li>
+                  <li>Category: Website Design</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 6 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Project Name</h2>
+                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
+                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <ul class="list-inline">
+                  <li>Date: January 2017</li>
+                  <li>Client: Window</li>
+                  <li>Category: Photography</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Team Modal 1-->
+  <div class="portfolio-modal modal fade" id="teamModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Jacob Wenegrat</h2>
+                <p class="item-intro text-muted">Assistant Professor<br>Department of Atmospheric and Oceanic Science<br>University of Maryland, College Park</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+                <img class="img-fluid d-block mx-auto" src="img/team/WENEGRAT_Jacob-thumb.jpg" alt="">
+            </div>
+           <div class="col-md-8">
+                <p>I am a physical oceanographer, with a research focus on the ocean submesoscale (horizontal scales of 0.1-10 km). These small spatial scales are particularly challenging for traditional observational and computational methods, and understanding processes at these scales remains among the most pressing open challenges in oceanography and geophysical fluid dynamics.
+                  In my work I use a combination of theory and state-of-the-art high-resolution numerical simulations, with the goal being to gain deep insight into physical processes in the ocean and atmosphere.
+                  These insights are then extended to more complex physical settings through collaborations with observationalists and large-scale numerical modelers, with the goal of connecting fundamental ocean dynamics to broader interdisciplinary problems.
+                </p>
+            </div>
+                <p>
+                  I did my undergraduate work at Stanford University, in an interdiscplinary program called <a href="https://symsys.stanford.edu/" target="_blank">Symbolic Systems</a>, where I was primarily interested in what science could tell us about classic questions in mind-body philosophy.
+                  After college I worked for several years in technology consulting, and then spent 2 years living and traveling by sailboat. During this time I became interested in the field of oceanography, and became particularly excited by how theory, observations, and technology were being used together to answer fundamental questions about our earth system.
+                  I then did my PhD in Oceanography (with <a href="https://www.pmel.noaa.gov/scientist/dr-michael-james-mcphaden" target="_blank">Mike McPhaden</a>), and an MS in Applied Mathematics, at the University of Washington.
+                  For my postdoctoral work I returned to Stanford, where I worked with <a href="https://pangea.stanford.edu/~leift/" target="_blank">Leif Thomas</a> on submesoscale ocean dynamics.
+                </p>
+                <div class="col">
+                <a href="./CV/wenegrat_cv.pdf" target="_blank" class="btn btn-primary"  type="button">
+                  Download CV</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Contact form JavaScript -->
+  <script src="js/jqBootstrapValidation.js"></script>
+  <script src="js/contact_me.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/agency.min.js"></script>
+
+</body>
+
+</html>
