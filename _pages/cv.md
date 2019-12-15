@@ -175,7 +175,7 @@ header:
    <ul style="list-style-type:none;text-align:left;">
       <li><strong>Honors</strong></li>
    <ul style="list-style-type:none;float:left;text-align:left;">
-             <li>Tse Cheuk Ng Tai Innovations in Fluids and Health 2019 Award, <a href="https://fluids-health.mit.edu/news/tse-cheuk-ng-tai-innovations-fluids-and-health-2019-awards-ceremony" target="_blank" rel="noopener noreferrer">Tse Cheuk Ng Tai Innovation Fund</a></li>
+             <li>Tse Cheuk Ng Tai Innovations in Fluids and Health 2019 Award []<a href="https://fluids-health.mit.edu/news/tse-cheuk-ng-tai-innovations-fluids-and-health-2019-awards-ceremony" target="_blank" rel="noopener noreferrer">Article</a>]</li>
               <li>GoMRI Scholar, Gulf of Mexico Research Initiative [<a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">Article</a>]</li>
                <li>Deans List, Northeastern Illinois University</li>
                <li>Women in Mathematics, Northeastern Illinois University</li>
