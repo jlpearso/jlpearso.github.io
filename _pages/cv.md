@@ -12,7 +12,7 @@ header:
 
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Education</strong></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="40" height="70" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="75" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
@@ -25,7 +25,7 @@ header:
 
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="40" height="50" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="45" height="55" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Mathematics</strong></li>
@@ -37,7 +37,7 @@ header:
    </ul>
    <br style="clear:both;" />
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="40" height="50" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master//assets/images/logos/neiu_logo.png" alt="neiu_logo.png" width="45" height="55" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Earth Science</strong></li>
@@ -51,10 +51,9 @@ header:
 <br style="clear:both;" />
 <hr style="height:6px;" />
 
-<div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Professional & Teaching Experience</strong></p>
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Professional & Teaching Experience</strong></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Research Assistant</strong></li>
@@ -71,7 +70,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Instructor for Summer @ Brown</strong></li>
@@ -85,7 +84,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Course Designer and Co-instructor for Summer @ Brown</strong></li>
@@ -99,7 +98,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Teaching Assistant</strong></li>
@@ -113,7 +112,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Graduate Teaching Assistant</strong></li>
@@ -127,7 +126,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
@@ -143,7 +142,7 @@ header:
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="/assets/images/logos/harvard_logo.png" alt="harvard_logo.png" width="80" height="80" /></li>
+    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/harvard_logo.png" alt="harvard_logo.png" width="80" height="80" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>Undergraduate Researcher</strong></li>
@@ -155,7 +154,7 @@ header:
       <li>Summer 2013</li>
       <li><em>Harvard University</em></li>
    </ul>
-</div>
+
 
 <br style="clear:both;" />
 <hr style="height:6px;" />
