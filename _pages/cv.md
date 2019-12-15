@@ -219,8 +219,7 @@ header:
 
 <br style="clear:both;" />
 
-<div id='cvsect'>
-   <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Skills & Training</strong></p>
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Skills & Training</strong></h1>
 
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong><font size="+2">Computer Languages:</font></strong> Matlab, Python, R, Java and LATEX</li>
@@ -310,7 +309,7 @@ header:
       <li>Fall 2017</li>
       <li><em>Mallorca, Spain</em></li>
    </ul>
-</div>
+
 
 <br style="clear:both;" />
 
