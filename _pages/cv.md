@@ -230,7 +230,7 @@ header:
 
 <br style="clear:both;" />
 <ul style="list-style-type:none;text-align:left;">
-       <li><strong>Travel Grants</strong></li>
+         <li><strong>Travel Grants</strong></li>
          <ul style="list-style-type:none;float:left;text-align:left;">
            <li>Fluids and Health 2019 Junior Researcher Fellowship</li>
            <li>Brown University Graduate School Conference Travel Grant</li>
@@ -238,7 +238,6 @@ header:
            <li>National Institute for Mathematical and Biological Synthesis Travel Grant</li>
            <li>Society for Advancement of Chicanos and Native Americans in Science Travel Grant</li>
          </ul>
-
          <ul style="list-style-type:none;float:right;text-align:right;">
            <li>2019</li>
            <li>2019</li>
@@ -246,7 +245,7 @@ header:
            <li>2013</li>
            <li>2012</li>
          </ul>
-          </ul>
+</ul>
 </div>
 
 <br style="clear:both;" />
@@ -399,7 +398,6 @@ header:
            <li>Reviewer, Journal of Fluid Mechanics</li>
            <li>Expert Reviewer, Intergovernmental Panel on Climate Change</li>
          </ul>
-
          <ul style="list-style-type:none;float:right;text-align:right;">
            <li>2019-Present</li>
            <li>2019-Present</li>
@@ -416,7 +414,6 @@ header:
            <li> First Year Graduate Student Mentor, Brown University</li>
            <li>Geoclub Treasurer, Brown University</li>
          </ul>
-
          <ul style="list-style-type:none;float:right;text-align:right;">
            <li>2017-Present</li>
            <li>2017-Present</li>
