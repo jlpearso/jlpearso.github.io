@@ -10,7 +10,7 @@ header:
 ---
 <br/>
 
-<p style="text-align:left;font-family:'Nunito Sans';font-size:20px;color:#78b0a0;"><strong>Education</strong></p>
+<h1 style="font-family:'Nunito Sans';color:#78b0a0;"><strong>Education</strong></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="60" height="90" /></li>
    </ul>
