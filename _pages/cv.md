@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/ocean_eddies.jpg
 ---
 <br/>
-<div id='cvsect'>
-  # <span style="color:#78b0a0">Education</span>
+
+<span style="color:#78b0a0">**Education**</span>
    <p style="text-align:left;font-family:'Nunito Sans';font-size:30px;color:#78b0a0;"><strong>Education</strong></p>
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="60" height="90" /></li>
@@ -48,7 +48,7 @@ header:
       <li>2008-2014</li>
       <li><em>Northeastern Illinois University</em></li>
    </ul>
-</div>
+
 <br style="clear:both;" />
 <hr style="height:6px;" />
 
@@ -70,7 +70,7 @@ header:
    </ul>
 
    <br style="clear:both;" />
-   
+
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="80" height="80" /></li>
    </ul>
@@ -110,7 +110,7 @@ header:
       <li>Spring 2019</li>
       <li><em>Brown University</em></li>
    </ul>
-   
+
    <br style="clear:both;" />
 
    <ul style="list-style-type:none;float:left;text-align:left;">
@@ -239,7 +239,7 @@ header:
    </ul>
 
    <br style="clear:both;" />
-   
+
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/carthe_logo.png" alt="carthe_logo.png" width="80" height="80" /></li>
    </ul>
@@ -251,9 +251,9 @@ header:
       <li>Spring 2017</li>
       <li><em>Grand Isle, LA</em></li>
    </ul>
-   
+
    <br style="clear:both;" />
-   
+
    <ul style="list-style-type:none;float:left;text-align:left;">
     <li> <img src="/assets/images/logos/ncarucar_logo.png" alt="ncarucar_logo.png" width="80" height="80" /></li>
    </ul>
@@ -336,7 +336,7 @@ header:
       <li><em>Baraboo, WI</em></li>
    </ul>
  </div>
- 
+
 <br style="clear:both;" />
 <hr style="height:6px;" />
 
@@ -419,7 +419,7 @@ header:
       <li>2015-Present</li>
    </ul>
 <br style="clear:both;" />
-  
+
 
 </div>
 
