@@ -360,8 +360,6 @@ header:
       <li><em>Baraboo, WI</em></li>
    </ul>
    
-   <br style="clear:both;" />
-   
 <hr style="height:6px;" />
 
 
