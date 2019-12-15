@@ -1,3 +1,13 @@
+---
+layout: splash
+title: "Curriculum Vitae"
+#author_profile: true
+permalink: /cv/
+classes: wide
+header:
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/ocean_eddies.jpg
+---
 <div id="cvhdr"><img id="img2" src="https://jennalynnpearson.files.wordpress.com/2019/10/me.jpg" width="150" height="150" align="right" />
 <h1> Jenna L. Pearson </h1>
 <h2 style="text-align:float left;color:#003366"><strong>Broadly, my interests are at the intersection of physical oceanography and biogeochemistry. I use statistical methods paired with models, observations, and theory to understand the transport and fate of tracers like oil, pathogens, and nutrients in the upper and coastal ocean, with emphasis on submesoscales.</strong></h2>
