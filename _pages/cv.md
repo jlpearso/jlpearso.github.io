@@ -14,7 +14,7 @@ header:
     <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
-      <li><b>PhD in Earth, Environmental and Planetary Sciences</b></li>
+      <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
       <li><em>Advisor: Prof. Baylor Fox-Kemper</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
@@ -28,7 +28,7 @@ header:
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Mathematics</strong></li>
-      <li>Advisor: Prof. Lidia Filus</li>
+      <li><em>Advisor: Prof. Lidia Filus</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>2008-2014</li>
@@ -40,7 +40,7 @@ header:
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>B.A. in Earth Science</strong></li>
-      <li>Advisor: Prof. Ken Voglesonger</li>
+      <li><em>Advisor: Prof. Ken Voglesonger</em></li>
    </ul>
    <ul style="list-style-type:none;float:right;text-align:right;">
       <li>2008-2014</li>
