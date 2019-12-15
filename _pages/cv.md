@@ -11,7 +11,7 @@ header:
 <br/>
 <h1 style="font-family:'Nunito Sans';color:#78b0a0;"><b>Education</b></h1>
    <ul style="list-style-type:none;float:left;text-align:left;">
-    <li> <img src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="45" height="70" /></li>
+    <li> <img id = "cv_logo" src="https://raw.githubusercontent.com/jlpearso/jlpearso.github.io/master/assets/images/logos/brown_logo.png" alt="brown_logo.png" width="50" height="75" /></li>
    </ul>
    <ul style="list-style-type:none;float:left;text-align:left;">
       <li><strong>PhD in Earth, Environmental and Planetary Sciences</strong></li>
@@ -178,7 +178,7 @@ header:
              <li>Tse Cheuk Ng Tai Innovations in Fluids and Health 2019 Award [<a href="https://fluids-health.mit.edu/news/tse-cheuk-ng-tai-innovations-fluids-and-health-2019-awards-ceremony" target="_blank" rel="noopener noreferrer">Article</a>]</li>
               <li>GoMRI Scholar, Gulf of Mexico Research Initiative [<a href="http://gulfresearchinitiative.org/grad-student-pearson-resolves-statistical-conflict-submesoscale-ocean-processes/" target="_blank" rel="noopener noreferrer">Article</a>]</li>
                <li>Deans List, Northeastern Illinois University</li>
-               <li>Women in Mathematics, Northeastern Illinois University</li>
+               <li>Women in Mathematics, Northeastern Illinois Univ.</li>
                <li>Army Achievement Medal, ILARNG</li>
                <li>Army Achievement Medal, ILARNG</li>
                <li>Command Sergeant Major's Award, ILARNG</li>
@@ -341,7 +341,7 @@ header:
            <li>Elementary School Science Instructor, Vartan Gregorian Elementary</li>
            <li>GRE Math Preparation Course Instructor, Northeastern Illinois University</li>
           <li>EMERGE Peer Leader, Northeastern Illinois University</li>
-          <li>Mathematics Enrichment Workshop Program Peer Leader, Northeastern Illinois University</li>
+          <li>Mathematics Enrichment Workshop Program Peer Leader, Northeastern Illinois Univ.</li>
           <li>CLS Coordinator and Instructor, ILARNG</li>
          </ul>
 
