@@ -30,4 +30,6 @@ group :jekyll_plugins do
 end
 
 # for cv
-jekyll-github-metadata
+gem 'jekyll'
+#gem 'github-pages', group: :jekyll_plugins
+gem "jekyll-github-metadata"
