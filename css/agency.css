@@ -319,12 +319,12 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-dialog {
-  margin: 1rem;
+  margin: 0rem;
   max-width: 100vw;
+  pointer-events: all;
 }
 
 .portfolio-modal .modal-content {
-  padding: 100px 0;
   text-align: center;
 }
 
