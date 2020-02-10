@@ -1,0 +1,14 @@
+- name: Mixing in the Upper Ocean
+  pic: WHOI_UpperOceanGraphic.jpg
+  more: models
+  description: "The upper ocean plays a crucial role in the Earth system as it connects the atmosphere, whose properties vary quickly, to the deep ocean, which changes slowly and stores enormous amounts of heat, gases, and momentum. I study the physics of turbulence, which mediates the transfer of properties across this upper ocean interface. I am particularly interested in how waves on the ocean surface change the properties of upper ocean turbulence.  "
+
+- name: Mesoscale Mixing
+  pic: 2D_Turbulence.jpg
+  more: models
+  description: "The motion of the ocean at large-scales (10-500km) is strongly affected by Earth's rotation and the stratification of the ocean, which makes it behave very differently to small-scale motion (such as upper ocean turbulence). This large-scale motion occurs throughout the depth of the ocean, and it is able to move water long distances. I study large-scale spinning features called mesoscale eddies (or mesoscale turbulence) which provide an important source of mixing and transport deep in the ocean and in climate-critical regions like the Southern Ocean.  "
+
+- name: Creating New Models for Mixing
+  pic: OSBL_Params.jpg
+  more: models
+  description: "Computer models are essential for making predictions about future weather and Earth's longer-term climate (from forecasting storms in the next few days to anticipating sea level rise decades in advance). These computer models can simulate the large-scale motion of the ocean and atmosphere, but they cannot see (resolve) many mixing processes in the ocean. I use our knowledge of the physics controlling turbulence to create new ways to include the effects of various mixing processes within our computer models.     "
